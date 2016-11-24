@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+    {% include facebook-init.html %}
+    <div class="layout">
+
+      {% include header.html %}
+
+      <main class="main-wrapper">
+        <div class="page wrapper">
+        <h1 class="page-title">{{ page.title }}</h1>
+        <ul>
+          {% for post in site.posts %}
+        
+            {% unless post.next %}
+              <h3>{{ post.date | date: '%Y' }}</h3>
+            {% else %}
+              {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+              {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+              {% if year != nyear %}
+                <h3>{{ post.date | date: '%Y' }}</h3>
+              {% endif %}
+            {% endunless %}
+        
+            <li><span class="archive-month">{{ post.date | date:"%b" }}</span> » <a class="archive-title" href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
+        </ul>
+        </div>
+      </main>
+
+      {% include footer.html %}
+
+    </div>
+    <!-- Back to Top -->
+    <div class='scroll-top'>
+      <p id='back-top' style='display: block;'><a href='#top'><span/></a></p>
+    </div>
+    {% include scripts.html %}
+  </body>
+</html>

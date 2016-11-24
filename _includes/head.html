@@ -1,0 +1,42 @@
+<head>
+  <meta charset="UTF-8">
+
+  <!-- Responsiveeeeeee -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Open Graph -->
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | remove_first:'/' | prepend: site.baseurl | prepend: site.url }}/" />
+  {% if page.featured_image %}
+  <meta property="og:image" content="{{ page.featured_image }}" />
+  {% endif %}
+  <meta property="og:description" content="{% if page.content %}{{ page.content | strip_html | escape | truncatewords: 50 }}{% else %}{{ site.description }}{% endif %}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  {% if page.title %}<meta content="article" property="og:type" />{% else %}<meta content="website" property="og:type" />{% endif %}
+  
+  <meta property="fb:app_id" content="{{ site.fb_app_id }}" />
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+
+  <!-- Outworld Decorator -->
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900,700,700italic|Noto+Serif:400,400italic,700,700italic&subset=latin,vietnamese' rel='stylesheet' type='text/css'>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/lib/pure/pure-min.css" | relative_url }}">
+  <!--[if lte IE 8]>
+      <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-old-ie-min.css" | relative_url }}">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+      <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-min.css" | relative_url }}">
+  <!--<![endif]-->
+  
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/styles/syntax.css" | relative_url }}">
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/styles/krad.css" | relative_url }}">
+  <link rel="shortcut icon" href="{{ "/assets/favicon.ico" | relative_url }}">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: absolute_url }}">
+</head>

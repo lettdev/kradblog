@@ -1,0 +1,35 @@
+.colophon {
+	margin: 2.5rem 0 1rem;
+}
+
+/* Back2Top link */
+#back-top {
+    position: fixed;
+    bottom: 30px;
+    right: -5px;
+    a {
+    	width: 50px;
+    	display: block;
+    	text-align: center;
+    	@include transition(all, 1s);
+    	&:hover {
+    		span {
+    			background-color: $color-gray-light;
+    		}
+    	}
+    }
+    span {
+        width: 50px;
+        height: 43px;
+        display: block;
+        margin-bottom: 7px;
+        background: url(https://lh6.googleusercontent.com/-lraRqlCW3LI/URVRjb_7ZBI/AAAAAAAADXw/xM-72gvogQk/w48-h90-no/scroll-top.png) no-repeat 0 0 $color-gray-lighter;
+        opacity: 0.5;
+        @include border-radius(5px);
+        @include transition(all, 1s);
+        &:hover {
+            background: url(https://lh6.googleusercontent.com/-lraRqlCW3LI/URVRjb_7ZBI/AAAAAAAADXw/xM-72gvogQk/w48-h90-no/scroll-top.png) no-repeat 0 0 $color-gray-lighter;
+            opacity: 0.75;
+        }
+    }
+}

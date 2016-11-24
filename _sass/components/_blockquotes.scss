@@ -1,0 +1,31 @@
+@mixin blockquote-mark {
+  color: $color-gray-dim-light;
+}
+
+blockquote {
+	padding: 0 0 0 4rem;
+	border: none;
+	p {
+	  font-style: italic;
+	  &:before {
+	    content: '\201C';	    
+	    font-size: $font-size-blockquote-mark;
+	    margin-left: -3rem;
+	    float: left;
+	    line-height: 1em;
+	    @include blockquote-mark;
+	  }
+	  &:after {
+	    content: '\201D';	    
+	    margin-left: 0.4em;
+	    @include blockquote-mark;
+	  }
+	}
+	footer {
+	  font-size: $font-size-small;
+	  color: $color-gray-dim-light;
+	  &:before {
+	  	content: '\2014 \00A0';
+	  }
+	}
+}

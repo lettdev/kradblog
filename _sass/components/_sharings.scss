@@ -1,0 +1,46 @@
+/* Sharing buttons */
+.sharing {
+	margin: 3em 0 1em;
+	padding: 0;
+	border-top: 1px solid $color-gray-milk;
+	border-bottom: 1px solid $color-gray-milk;
+	span {
+		font-weight: $font-bold;
+		font-size: $font-size-smaller;
+		margin-right: 1em;
+	}
+}
+
+.btn-share {
+	color: $color-gray-lighter;
+	border: none;
+	cursor: pointer;
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	margin: 0 0.5em;
+}
+
+.btn-fb {
+	&:hover {
+		color: $color-facebook;	
+	}
+}
+
+.btn-tw {
+	&:hover {
+		color: $color-twitter;
+	}
+}
+
+.btn-gp {
+	&:hover {
+		color: $color-googleplus;	
+	}
+}
+
+.btn-pr {
+	&:hover {
+		color: $color-pinterest;	
+	}
+}

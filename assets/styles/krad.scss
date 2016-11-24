@@ -1,0 +1,51 @@
+---
+# Main CSS file
+---
+/**
+ *
+ *  Author: Krad;
+ *  Url: "http://www.tunglt.com";
+ *  Version: 3.1.0;
+	 ____  __.__________    _____  ________                            
+	|    |/ _|\______   \  /  _  \ \______ \       ____   ______ ______
+	|      <   |       _/ /  /_\  \ |    |  \    _/ ___\ /  ___//  ___/
+	|    |  \  |    |   \/    |    \|    `   \   \  \___ \___ \ \___ \ 
+	|____|__ \ |____|_  /\____|__  /_______  / /\ \___  >____  >____  >
+	        \/        \/         \/        \/  \/     \/     \/     \/ 
+ *
+ */
+
+/* Variables
+================================ */
+@import "variables/colors";
+@import "variables/fonts";
+@import "variables/misc";
+
+/* Mixins and Functions
+================================ */
+@import "mixins/clearfix";
+@import "mixins/css3-mixins";
+@import "mixins/mixins";
+
+/* Global Styles
+================================ */
+@import "base/typography";
+
+/* Main styles and Components
+================================ */
+@import "base/main";
+@import "components/images";
+@import "components/sharings";
+@import "components/img-comparison";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/responsive-embed";
+@import "bootstrap/scss/mixins/alert";
+@import "bootstrap/scss/alert";
+
+/* Layouts
+================================ */
+@import "layouts/responsive-menu";
+@import "layouts/home";
+@import "layouts/post";
+@import "layouts/page";
+@import "layouts/footer";

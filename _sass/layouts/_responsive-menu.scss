@@ -1,0 +1,22 @@
+.navigation {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 0.5em;
+    font-size: .75rem;
+    li {
+        margin-right: .5rem;
+        a {
+	        color: $color-gray-smoke;
+            font-weight: $font-semi-bold;
+            &:hover {
+	    		text-decoration: underline;
+	    		color: $color-gray;
+		    }
+	    }
+	}
+	li:first-child {
+	    a {
+	        color: $color-gray;
+	    }
+	}
+}

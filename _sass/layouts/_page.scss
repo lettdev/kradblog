@@ -1,0 +1,12 @@
+/* Pages */
+.page-date {
+	@extend .post-date;
+}
+
+/* Archive Pages */
+.archive-month {
+	@include set-font($font-family-monospace, .85rem, $color-gray-light);
+}
+.archive-title {
+	@include set-font($font-family-serif, 1rem, $color-gray-darker);
+}

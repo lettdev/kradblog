@@ -1,0 +1,52 @@
+img {
+    border: none;
+    vertical-align: middle;
+}
+.img-responsive {
+    max-width: 100%;
+}
+figure { 
+    margin: 0 0 1rem;
+}
+figcaption, .img-caption {
+    text-align: center;
+    color: $color-gray-light;
+    font-style: italic;
+    margin-top: .5em;
+    display: block;
+    font-size: $font-size-small;
+}
+figcaption + img {
+    margin-top: 1rem;
+}
+
+// Images Alignment
+
+.img-center {
+    text-align: center;
+}
+
+@media (min-width: 62em) {
+    .img-expand {
+        text-align: center;
+        margin-left: -7em;
+        margin-right: -7em;
+        img {
+            width: 100%;
+        }
+    }
+    .img-left {
+        float: left;
+        margin-right: 1.6rem;
+        margin-left: -7em;
+        margin-top: 0.6rem;
+        max-width: 75%;
+    }
+    .img-right {
+        float: right;
+        margin-left: 1.6rem;
+        margin-right: -7em;
+        margin-top: 0.6rem;
+        max-width: 75%;
+    }
+}
