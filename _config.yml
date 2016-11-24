@@ -1,0 +1,35 @@
+# Site settings
+title: Krad Weblog
+tagline: Nothing to do here
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+permalink: /:year/:month/:title
+
+# Author
+author:
+  name: Krad
+  url: https://twitter.com/kradnozd
+  email: kradnozd@gmail.com
+
+# Build settings markdown: kramdown
+theme: krad
+gems:
+  - jekyll-feed
+#  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Custom vars
+version: 3.3.1
+github:
+  repo: https://github.com/kradnozd/kradblog
+fb_app_id: 334951299891652
+
+# Fix bug 
+excerpt_separator: ""

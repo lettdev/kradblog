@@ -1,0 +1,67 @@
+---
+layout: page
+title: Facebook Live Stream
+---
+
+<style>
+  #liveButton {
+    width: 100%;
+  }
+</style>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '334951299891652',
+      xfbml      : true,
+      version    : 'v2.6'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+
+</script>
+<button class="pure-button pure-button-primary" id="liveButton">Click here to Start Facebook Live Stream</button>
+<br/>
+<h2>Hướng dẫn</h2>
+<h3>Tải và cài đặt Open Broadcast Software</h3>
+<p>Tải bản Classic hoặc Studio tại <a href="https://obsproject.com/download">https://obsproject.com/download</a></p>
+<p>Về cơ bản đều giống nhau cả, dùng bản nào cũng được. Bản Studio hỗ trợ nhiều tính năng live chuyên nghiệp hơn và hỗ trợ multi platform. Trong ví dụ này dùng bản Studio.</p>
+<h3>Lấy key live stream</h3>
+<p>Bằng cách nhấn vào nút màu xanh to đùng ở phía trên, một cửa sổ popup sẽ hiện ra. Nếu browser chặn popup thì phải allow. Chọn nơi muốn share live stream rồi bấm Next, thường thì share lên timeline của bản thân nên bấm Next luôn khỏi cần nghĩ.</p>
+<p><img class="img-responsive" src="https://lh3.googleusercontent.com/659CbErRdFI6M9Jha3p9Q9Tgjiq42pcC745PMgvvciOnk_VVEhIy1_4D6HvHVHRHbZeo56Lb2aJz5OvQXbspk_3mVzhHtB_K3l4tN-YpbdjzwY5jl8Xtr1nVv_bpNjhbPw73b1CH736R1kWC5pCLf2O0bqxio5Eij_gy7R7OHQiBbRM0CyZFy53fPXMFHFyRT4WmF2Bv-rquheBIMYPUkqKxwkKdiZ7L7gljmF1NOsuE7_RX_0n0d96ENr3TuD4NIJ8FM6Mp4o52Kif8zaELpWrm7tPre60CsVKtxCNT3sf729BLk2hN_BHZ-D1r7Fjuw6AOpfx6y1S-I6l99K37ejQCC-cluSl3H9InvT1lGESsej_cpbIKT-AfTptNI8Q6DcX2Fm7Fo6LEBAxFrIiudps_Hj29-nrKN27heEtwg1_4spLoF_GeTi4pox8owzFi4TgsvrIsjdI19Edxsmilm1ozMY5FfCLoGy0EaeQ9EwtqOP7Z4xd2cW81rq2lTomkaFiyuJTaIMeOhm7gsQoy44JQWRLJ_qXdkyRsCE1AhuPVQ9jhvXTC079OUDZc08VGAPdI-OAsPPT0ab2wDKvH2e3MnGPlyRZ6pD74OV196BOVUdFJ=w466-h339-no" alt="001" /></p>
+<p>Ở popup tiếp theo điền Video title, tags, vài câu status giới thiệu,... Phần quan trọng nhất là ô Stream key ở bên phải, copy stream key ở ô này rồi bật OBS lên.</p>
+<p><img class="img-responsive" src="https://lh3.googleusercontent.com/1_yfkQ_euKPApRJPLj8EL53E0MOGnnlKfyFU6nj57OeB-t3SrFYvFlFVaoNmqP4arUR9uagO7XA4ZxgnoVl2_s5zn46ECPSptXZSTnQ2P1emzaxmqTNbuUMCDZg8F1PegUg-M--_6NNXxt5BT_Gpo3UMcypL_CRTT3XKWDMhyAWOEggRduHkD6KjLF_jVTA62wG_aW72py-5LTJzL5MJOrpKrO6_mtj_jiDg58p2UZR4PsNcpghPI_ZY1UqHi3nbbt-xeMP_fgWvCOD-p-OCcCsqWkHFMyxrLT0Ol0JXK1gxBHLu4q5lYI3w01XAk2EeqR7u69PC8nZ-N41AerlZENjnyC35Y8C44HLfBchxQLph1IAOAR6AWRzX4GnGLk6EDMVVzLu20FPy7WXAKXI9qmM9LkgPeyB1ADPijDZQDqTq3Mkk22WPSG4LBCzDLfNH-K9wCUEM-cVsm0n-ZZWQH5Mt0rntYPzH6EQ_D4dUAxVEWkVj3YLNdo30dzf_P3vKw-67BQi7si4adrEfKGKwkm12z1Bnkg8-9c07cnPO4KlUMUR8tq7xgRR-CRE7ookWo03HuNfXxjilXL4MTTx2hxGYzW0JW4OQYk0lvh6B-XuD1w5x=w800-h596-no" alt="002" /></p>
+<p>Vào Settings / Stream (Hoặc Setting / Broadcast), chọn Service là Facebook Live rồi điền stream key vào ô Stream key.</p>
+<p><img class="img-responsive" src="https://lh3.googleusercontent.com/Ry0SUuFwxLHFjBUym7wkSB4EGBYbbHNRAc-yRq48N5hjWENDwA5vGeSiHIffv2HLXLTo9np4NnJh8kifX_EsDB47wC7SMcDukRXYYXHZiHsmPHdbgTG_F32tb4Iie63EzDSU0LFp7uea8Pur2TpKINn1e_38c0vV7B2XzaZJofbBvP0ASYwQ_bc-CEdnl64dvo6VC1HOTq8rlFxYNvyFKZTuhdPph0BaZT8UyygA8HS47GerrdiPNcVzqmNlk4oSE-gwOv15Ig_fcdZAAgGdCyswV-3L_7d9OI_zqzsZQEBdMWHLTuVofrVUcwx5L8XyruBjFvxP2Vvu0AM0QR6VvadDHxmX7WB5KNBu789fT_ZN0Dt741eUxbPXcpuo9i5uM9H8qdDl37oUzmZRQNURMLmpyx9AYrlKU-4biPwyx0lg1SznMT_yhI8zsRECzMJTDd73G6FRUUot2IcCUi0-FI4tAPcx3upQGx3w63MhLjiwLMaCXnezgHmheuWmfKPlRHVBGaf8SB2lpbSLI6R9-BbX066OmofRGHrFnK1gTT18Da3hF_psuwoW90JTO0c-whLsXX8eCUZ4RgClgSYyDpqGLGanS_vLUHFNytDeknezWbVI=w770-h569-no" alt="003" /></p>
+<p>Nếu không có lựa chọn Facebook Live trong Service thì chọn Stream type là Custom Streaming Service, rồi copy thêm ô Server URL ở popup điền vào phần URL.</p>
+<p><img class="img-responsive" src="https://lh3.googleusercontent.com/BSx9TzbWLT3eZlzE4aIx4hYJ3u6gdwG7jOg-2Q57Q34aq_IQMeMGAZu4gdCBTqPOeveGC3LFPn6MGBV_RZR8rQG5omB_gJ_34isl86tIWM_2StgR6wsTMxXAl9NIa3CJs2lCqVZcupx6DodYe0LsVckE77GkC118fyiYchaHmstpxJWNE4xUp0gwwbJy3ks_km4HhEKHrDW1zsLeuBLwY-doIGGCWrEMK1k1uKB1M6CmTSfbjevYNC3EHJezOj81XZ_655XVR3Dljbeubyv8WB0V9mKv0zhe46xZiZwfhU4K7Gie8gFBnQRHZcw8jSXrXSKLrqzaILIBTChlyKiz9RmZRh4xkTJvd0SO5gZnhBBS-bD_As8ksCySnBss5dN-rNnVaEYS21z8mIe5gA8JXQB6R3CCPoaBZqw3zvlhZcIYNcg7aHfkBqTdGerFkS2pwkNFu-CZgmflLg7JwxZ2Gihx1gVvF5mqE7urTcn-_kbXDcdtOMU4VQT97H1uqf-58tXMlqVY6EcLSJOcjtGtN11UVJaX1jJJenkoRuP1P-8PGR1O221uM-At4B1A5n-F0FgJBu-S6qPJznhNo9grBeq09vjQ6UNbG8dYtvwTmaQiwZVC=w770-h569-no" alt="004" /></p>
+<p>Chọn OK để lưu Setting rồi nhấn nút Start Streaming. Đợi khoảng vài giây thì ở bên popup Facebook Live Stream sẽ nhận được tín hiệu và có preview video, nhấn nút Go Live để bắt đầu stream. Lưu ý rằng nếu đang dùng Adblock thì có thể preview video sẽ không hiện lên được, lúc này phải đặt ngoại lệ cho domain Facebook trong Adblock để có thể stream.</p>
+
+<script>
+document.getElementById('liveButton').onclick = function() {
+  FB.ui({
+    display: 'popup',
+    method: 'live_broadcast',
+    phase: 'create',
+}, function(response) {
+    if (!response.id) {
+      alert('dialog canceled');
+      return;
+    }
+    FB.ui({
+      display: 'popup',
+      method: 'live_broadcast',
+      phase: 'publish',
+      broadcast_data: response,
+    }, function(response) {
+    alert("video status: \n" + response.status);
+    });
+  });
+};
+</script>

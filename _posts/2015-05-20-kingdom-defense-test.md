@@ -1,0 +1,70 @@
+---
+layout: post
+title: Một vài ý kiến sau khi thử Kingdom Defense
+---
+
+Cảm nhận đầu tiên khi bật game lên là splash screen khá ấn tượng. Con bắn cung ở xa xa chưa đẹp lắm nhưng tổng quan thì khá đẹp. Nhưng không hiểu sao mọi thứ lại mờ vãi, đến cả cái logo tên game cũng mờ (điều này có lẽ được hiểu là do màn hình máy mình có phân giải 1920x1200, trên điện thoại hoặc màn hình phân giải thấp hơn chắc nhìn sẽ rõ tuy nhiên vẫn phải chú ý vì nên để 1 cái hình có độ phân giải đủ lớn để nhìn rõ trên mọi màn hình).
+
+![Anh1](https://lh3.googleusercontent.com/7XR5vyfvorgadcrxYKOgSa9agdzBUY6aMHK2m0bbfWwaQsjgMQ-Up6-RrulDcqHcKG9cIuSIu6rmcPOMeOWwjMO1bwFLHCzdTYgtd_uxiWp-FFW-9IOxTGlqp9RyViZnlPPoiXL-QWlTzf8T4PBCBiCy1SWJZ0D5t8kf0IFQQ_UvpWDQyZm13xfF9Tphb0615Pt8GMtSzTsm-cmzriiMyP25aKM0EjMcJ2hmK-r8XBAjxUa3sY8mb-xMo162p-Yzp3mIKJOtUn9eU04yjZuhPh_TJUO_q0GQzzeOjfEtkqJDadopK2lUDQveupg49Wv9MkqNpfd779WpHZETykp6bKGzbTRbTCqUOaSrOx5RvJjXkcFYPjmAR2Pu1XawUhzoBKalVEywQqzSxb6F-Sc0NyfZSE3uxt4ySbf_vW_knnLgKmNvce3Qchp4Vhu-rfS_0FaNS1pp3mrUN6ka-c2CRilmIqUAuXn0BygUMYF-owOlPcu8agkeJTjSH5WTbI9WOYqq4WQ2xxJhSYfyrU18CSJaNAzzEJCgtqoWppANbGpZefw3WJ9HqTvL3ua0Q2IcDTiC=w800-h500-no)
+
+Vào đến bên trong thì mấy cái hình cutscene kể chuyện đơn giản hơn và không ấn tượng như cái splash screen nữa nhưng không sao vì art cho phần dẫn truyện thế là hợp. Phần chữ thì dùng font chưa gọi là hợp lắm nhưng nói chung là dùng được, còn căn chữ thì xấu.
+
+![Anh2](https://lh3.googleusercontent.com/4gBbVEm920c9SlNKH2CAJpNVQkepEQzxKOcefAky8VihcV5VvYboh8SUYWJdOQhe0aFHiAsLKKmCFwrdNaR9nUsLpOD9eAgYp5onVfkottkTtkFZStXBDgvyzwL0gejfo6ZPPqVxb65mpaZ7ZSGCAMR3-g4XK8ouwHhYTB5mwEGq5e4neVT_VzgRyrjNDklV3hOE5ccU1J9MKM2DqW0-CjsdBFYXSIE8P9SFb8VlF5Osrh-BeSo3w-VMcRJg_GKpU_ibP16tAED1EAyJWtAwQom9vG1bXYfgGoIGZ3f7CL8UMuIJ4LwVnaeTbxWvKFwCIMJC0IEK0zCPbo_JejMBj-mfqI_cnk_GKGykDSQ7RoZTgtxBlNeaD8Ey2rI6hQ5S7yX3I941LVIhvLhdJ4c01ee2OVbKRPI23VrjUAQ1TqwGfOx91x3MxafPt6-Gkonb4kL0vYMbJ8Aw950OyoMGh6IIPe4bDFoDj9DyAJQAKTQcQyQftZ9olAgTzOIyegVsC1kaKRAuutNVSM_y7TjzUsvGeWeQjZeQ2i0h6je87L1rGv7tA3UCmhRZTR-4NNOJPm8f=w800-h500-no)
+
+Đến màn hình main thì dần dần những vấn đề nghiêm trọng lộ ra. Trước tiên là cả game ngoài cái splash screen ra thì đây là màn hình duy nhất để nhìn thấy cái logo tên game, thế mà chưa gì đã bị một con dở với cái khung thoại to đùng che mẹ nó mất nhìn khá chướng =)) Đéo biết Hector có phải mình không nhưng mà chẳng cần con kia nhắc cũng biết là phải start rồi. Thế nên tốt nhất là move con này vào bên trong còn màn hình này chỉ hiển thị logo với cái nút start to đùng nhấp nháy sáng mời gọi người ta ấn thôi là đủ.
+
+Thứ hai đó là bắt đầu có sự lộn xộn trong style đồ họa. Ở phần dẫn truyện sử dụng khung thoại dạng nền trong suốt đơn giản trong khi ở đây cũng là khung thoại nhưng lại dạng đặc có viền (đại loại là cố làm cho hợp theme game). Thực ra style nào cũng được nhưng quan trọng là cái khung thoại này hơi xấu =.= Ngoài ra thì từ đầu đến giờ đã có ít nhất là 3 loại font được sử dụng, và font ở khung dẫn truyện với font ở khung lời thoại bên trong lại khác nhau, không nên. Và căn chữ ở cái khung thoại này cũng xấu.
+
+![Anh3](https://lh3.googleusercontent.com/vKGSJ4rjIDiaeU7vEJos8cdQxqT0G__RVqhf2kJo_CRspXhZdaDPqIB9JHS8Y7I72Pb-ovhdJBANvyN5mClGyecWne21Kjd2QlJKmuYVrHo5Tnm1p2riUsZ0Uy4Cc6_PjyAtAH8JA0bB-00Frz97-ualNx1Jh71ZSt_0uJZ9RQZUVnyg9ptFzNof05X_fWsZGgTTgj4d5HTqlGaEvWTpmBUkAsxqSMt_XQ78518LjNYOEP1EMWCAMdtY-NACYip-hsu4HuFVtgG2G2H5YppUTQinsE978lPuwrVynfMvOVs3ODqXMVi5MADD01U9Jsh1w9YLbN8e-ArAqZGg8aBAIkNdoynJuczcXB29b_q7w7Golm6tkO65wm4jztmNP_SgaOvmpMZJAe4f-4AHGH1oSXT8KFvUPV05z-vtwNG597V9MjFxQxZuQ4WpDPcChF7eOrL9a8Ky49E1kJDXdU2mCsaOvRJxKd-HHUBkP0SvmcTCLGFkwjNvt4Fcoy_r3zGZtt3Pad68whDPML7f3FbtlpeBDzAPXozbhd4z3Oa9ptORANYYbD8lFGPHEqBLNwnH7tAI=w800-h500-no)
+
+À mà có 1 điều nữa là mặt con hướng dẫn viên du lịch này trông hơi chán đời =)) Mới vào chơi nhìn mặt nó nản lắm =)) Với lại mình không ủng hộ thể loại rip-off Final Fantasy trắng trợn đến thế này đâu =))
+
+![Anh4](https://lh3.googleusercontent.com/nZ6uBgKM5_6YIhb1mQNnAQ5UBlDuqUYsidrPX_4Qu9QAd5-96Hp9eIeUiaI_wxWGQeroRZRW7M3sD99DPk9atuIbdHHBlOfsQC-HUFek5podyuYJgH9wEm1baacVWiswHr2KbK9Hty4xP9QML8ZQ0W8b436m8v_qIWAJQ2Sn4jvBBUIWyQY_uVry4UcPm4IjgiM7XktY9qKmlotrFrSiXbLWD_BHAAb-NZdNTYTqiaw8afnrTWsm6r-LkBalpwFQLHzQO78z1QNFyDHoCrFAUzGyf-q9qvMT1Ef6p5oP-fPlIkN1Wbh5Y1ujnCQVFuwjIZ665K4oyGMmXGPO_QqGQrxniH3v1PIni5j8xUCwg_WHfru303_u2bbiJmVOomcLy_afZ4TF9mIKHJ51_EZUCAxGEAJXnkubwBbb8m06gXCmh6WmK2Vl2IuGCz89N7bwAi3jSs25a8oinwIsvMqQBhVlNIReSwlmNm7kGXyivKDdvKsZQnlFycquC2R0aUxXITVmdaR67pVcD6XagQuXJ6STCyx5mBjwaOVfdSEbEsuKFvgh3Z9awICEgQCDk7LmhHEh=w400-h327-no)
+
+Trong phần này thì mấy cái tab Items/Heroes/Tower trông xấu và hơi khó nhìn. Lúc chơi tutorial mà mãi mới để ý thấy là phải bấm vào đây
+
+![Anh5](https://lh3.googleusercontent.com/oDV_qJ115MfGfZEQxCZkNhhceHiL0YxDsCACe-UX8_PqVJ9-erOM3graE-vnK3yvB2q_Xr9JnR8yVV497fiMzHuYOr0dugzyXJOTHh-LSBFvrkTq1F32tAKfqRRu_xNKdRTuN5uQ2xr_QcFuadKXpSxWmGRIefMeIP68feSsrRSoalkrJrsy83mFoiDb3Y2kPiPwmGSbOLoiXG_QOnh6-QwMCWs5y1E2ljZIYXM0-UZrfNG3QdleL6OpEW8iRbEigX_kIf9OhDX0WLKi175f0PyUiS13pIYGORsRXaYx4fGN4aNdEUX8G9scd1YSwnyr6icGOK78pkdmB1j5L-2ZqbwlAPxOmWUkHsvaqrfG7teti4WH4WY4cWYCEvdy3kXvxJf68tq3YD6ptphvxQnaAYKW6I3EymFKMuWvNPX2daIw6eGkZI_04vTvKmG8kOaZ2YO_RLclofHnCZF7J29ijJ9FodLpS-O4tkMmt5OnSsAxpBRktxdnkoMyxSVBhpSMRqoXN1Gf4M0gabN3k7umONJwHWeM1C4LCJOSngFENQvbuUuT7hFgHezcYf0g-cQ6G-Qq=w800-h500-no)
+
+Phần tutorial khi mới chơi của game chưa đủ kĩ lưỡng và không friendly lắm đối với người mới.
+
+Cụ thể là ở giữa đoạn đếm ngược vào game 3..2..1.. với đoạn bắt đầu thả lính thì có một khoảng thời gian phải "chờ cái búa nó đập để fill energy". Sẽ mất khoảng vài giây, thời gian này nếu tính ra thì không quá lâu nhưng nó đủ lâu để gây ra một khoảng trống nhất định trong mạch game. Tâm lý người mới chơi khi bắt đầu vào là háo hức muốn chơi ngay, muốn biết mình phải làm gì, để như thế này người ta sẽ có cảm giác bị hụt. Chẳng hạn như mình sau khi được hướng dẫn chi tiết từng bước, game đếm ngược vào và không thấy gì nữa, mình đột ngột nghĩ "Ô thế đến đây là hết hướng dẫn rồi à? Cứ thế tự chơi thôi à?", xong bắt đầu loay hoay tìm cách thả lính, vài giây sau mới ngỡ ra "À hóa ra chưa hết hướng dẫn, phải đợi đủ energy". Theo mình lúc đó vẫn phải hiện hướng dẫn ví dụ theo kiểu như dưới đây chẳng hạn, vừa giúp người chơi đỡ bị ngỡ ngàng, vừa giúp giải thích luôn là tài nguyên mua lính lấy ở đâu ra.
+
+![Anh6](https://lh3.googleusercontent.com/81AjzlnCy_1ZM3WKsmnOjbypi2zWajUp4lkakQuNFUEFuPZ5c55Lu2yXRHtB-WfNlI-tfN3qpSQNI8l_hnf-JYe4cst1bnDQ9qPrZXahhdON0J5jqWdbPHdO0-OIxdRhfLlfSE0cO3NvhrtWtfideV3Oo1Jdz9FzEZU7mWRedG-f8fOfz_Ts3xvDiH08_pxhu1xNBozz6TqN2fPQUMIyVyWQIMh-sEN4MuxVriKPYkJmgseFi82KFGS0rI5uZA_MRPy8S85SqvCD0bV4Y5KLDB0TCLA8QQVCB1ZzsPRuErqaa_2mDosSfZM2A6hRyMLYYjuTnbzq-5gIpo027sCsNYl5SUu_OeV8VNZINmujc9y8mcPEzHUyymzx7xfGorkgf-EqyxmUitw9vH_Lnh51IORAZgDb9pfATL6XVjVa9VzGtlInnsTdF2RleZ7hAXyVQXmjoVJOSVYiCJGiHcap9cvYJtLVWpS7OEXW6fQIhtaM0A1WtqJJthJMqGvdSxKMPsgQumZdKGmWGJ0r9uAg4QOxzcErKPitz_oOLyyTLfwDRpEv7WTE7VPBhh_Sx2onf_Oi=w800-h500-no)
+
+Phần hướng dẫn thả lính thì nên chi tiết thêm 1 tí ví dụ như này thay vì chỉ nói là Drop to the land: (ví dụ thôi nhé)
+
+![Anh7](https://lh3.googleusercontent.com/AyhZamcFV3kvAB9RW0wnW5z2wAGd6QKp-iskWIwnmppk8l5o4PplsuREKFMPGKAgBEbzE7KrAZBJt7gfBXnXEeKpajYx50pvYu-PjcSmfZzenL-60eu5Ja3_KmHH7NsU82TjlZJ8I3hLtqH9NqS7SVnwNMO8SdMya3NSmvv1fmt7KyIdGudaTRHz_kHNpdGv93LxudXQphBoS3CUebVf5dPKCIv4H9TVEjflPJ2cDaQr6zVWZKpz5dLFNlG-1E3GGUX-5oe12WYf_-m_KcU4iPMETAzLtjP6AtN0z_7-GGc562WlAmpWfuSnXa0n4o-fM6FUJ47qOVNP63j8MKw2hZgGZA07l1gZsQPqRoe4lx6lXVUiGHwbnuFLcG5mXxANcVjaGlzWi3ZuCHdZssfo0Xk0leg8fkaOtpS-TklB-Ruw08qXd5FjlJ3zKgjLrONGnDKm3vicPSBVXFUp4JmSndLwHu34vbxwnPywfNAwYs7_jtmyIWjTmNuOqQzTX2GNUjEeCLXMZEZDwmutFMa0c-NTKWCbj1oJhlpIpfwPAdADRo4dTnq7BsRE2h4oW9_EK2lD=w800-h500-no)
+
+Lúc đầu có phần hướng dẫn đặt skill vào ô tròn nhưng khi chơi lại không thấy hướng dẫn thả skill. Nên cho một đợt lính nhiều nhiều ngay màn đầu rồi dạy thả skill luôn nữa.
+
+Nói qua chút về đồ họa game. Tại sao đồ họa game bị chê xấu, tại sao có những người bảo nhìn đã không muốn chơi. Không hẳn cứ phải có khả năng tạo ra đồ họa khủng. Tất nhiên nếu có thể làm đồ họa như 3D đẹp như Arkham Knight hay 2D đẹp như Dust là đã thành công 70-80% rồi. Tuy nhiên đó không phải là mấu chốt. Có rất nhiều game có đồ họa nhìn tương đối "xấu", trông như vẽ nháp dở nhưng vẫn khiến người ta cảm thấy thu hút, mê mẩn. Tại sao vậy? Cái quan trọng là phải chọn được style và có _sự thống nhất_.
+
+Đi sâu phân tích game Kingdom Defense.
+
+Thứ nhất, đây là một game mobile thể loại tower defense có bối cảnh fantasy. Với những đặc điểm đó, thường người ta sẽ chọn những style đồ họa đơn giản chẳng hạn như 2D cách điệu hoặc thậm chí là pixel art cũng ok =)) Tuy nhiên KD lại chọn style paint 2D có chiều hướng realistic, như vậy là đã "tạo độ khó" cho mảng đồ họa cũng như gây khó khăn cho bản thân game rồi. Nhưng không sao, việc này cũng không quan trọng lắm và đồ họa game cũng tương đối khá rồi.
+
+Điều thứ hai là điều quan trọng hơn, đó là sự thống nhất. Cụ thể là sau khi xác định được style cho mình thì những phần đồ họa trong game, từ assets nhân vật, bối cảnh cho đến ui, hud cần phải có sự thống nhất phù hợp với style đã chọn cũng như giữa các thành phần.
+
+Một ví dụ điển hình như đã nói ở trên đó là trường hợp của khung thoại. Tiếp theo đó là các nút bấm. Khiếp trong game này không biết có bao nhiêu thể loại nút bấm =)) Mỗi nút lại 1 style, 1 font khác nhau :v Nút thì 2D quá mức, nút thì trông như con của windows Vista =)) mà thậm chí hộp thoại chọn nút còn có thêm cả nút X để tắt =))
+
+![Anh8](https://lh3.googleusercontent.com/evTvYphJGEjbkSU1fLmba6DTkTG24U7Zq9Skxd7hb5lzKRZDgEiMrUXNfWpGrxZStar4xNtwlNnxERdua3h_sxf_tL9ATVP2Ya0wepcm92ax2GWlrqjuAR5-3-SDH8J2L-X_OTrILXBSB7Zv50SalUj1O_K34V2AGN5CKE6JzpxDbElF-iRcljDhCULsahtIsnN2iqrIQlFBOOZOu265fcEG8s5xnQ9Q15tjDThVKiNMFfOoRumr4fX5e_ZvfAjfsfvCd_-MyP0zlOvXf_U6J3Y7mVjg2FRj3kPNoqW3m51v0Me4mJV7w9Zb-OWaZlcsnXUj3US5HOz81wVI6_ZAtn9BXpuNzL9fYNmzSL-W4D0mDkmW7zipdou8dEi-nLFsCVTdI5RMbQn4ofSZtltOEvRfpvZW7sgFX2A_S2wpL0XmjvRTfP1Mm4zhG2Lj6vLVkhs6UpT-syj5mi9tSldtNwa5QwON93t-2ShFc80LQzC-9BgKo4SW2kdL_0u4jLe5GST6ZKaUtHkxwn7k_83XE3F8VeJN8nStZ-rKrczw_jNAF0dU5JdiofR6LThc_JQXt23W=w1292-h168-no)
+
+Hoặc như thanh HP. Trong khi game có cách thể hiện đồ họa tương đối "nổi". ví dụ như nút spell, hay phần HUD phía trên top có cách vẽ trau chuốt với bóng đổ và quả cầu thời gian nổi bật thì 2 thanh HP lại là 2 mảng màu bẹt to đùng. Hơn thế nữa 2 màu này còn là 2 màu khó dùng thế nên nhìn sẽ hơi gai mắt. Nên để nó nổi cùng phong cách thì hơn. Ví dụ:
+
+_Trước:_
+
+![Anh9](https://lh3.googleusercontent.com/61SIkhJco0IVtaQtwMFsVzivE-QnE6drHdg7AVy98pkYTtwrsoft7ffbZYS6-T4QxS6zzGtSQpmnb1j_JSfukcW0UFxG0Ygq6pjhvCWf0aI0TdNJdEseXC10KbaETtCXpNscmx4Qysce98o0pRCuPOj6Qr_JQZLegUZMDqoNnNvfs16aVWLfkjYmRVXR1C6lDyS2jfRSKeS6WMzF8WuEgEureT01j_s_GPkKXCqCwA34DsU3iskVsiekE9QcF9Haa9xPTqJ7jGfmissjyDxNtpbZ3sVhUpeJbT5TqzGmzgOJwKZCuQz0-kFqo_uE9dFRYcNz-amaMFFcMK5c5yys2hUhwsyGpexVvecucAGt8fUr6jnDyesHQsj0-cF4vBUd7EicnDWgg6oKLG03RrNvDK_7oVV8aQc_RWvTYQSLOOaJ31ox-QskKZ4-j9nhVQYgzUjteCljs2MHgLhO8zr0X9cHBsbX9dAN4g2Yug4j6AL7wu8jIzHx5vJlcIENFRz-zLiQ1lz9FuvkQuKOODT27LL7De0s6OCCUhB9dI1T2hIaxEZD74yxOoJyDLpbBA9mHp17=w800-h500-no)
+
+_Sau:_
+
+![Anh10](https://lh3.googleusercontent.com/19sr5eacJTKUmkDfYMrTDQO3OPs62x4g7XprMDbDUgub7qp1TVuFf9wE_l45CPqufmuC-_RoA-hC3U831ZKWG4tJGLDPkdeRIihyzglX7gg3VwHxY_rUoDUyUF-H4hUpaBWzDCE6wjDxr9wOQONirEE1LJcFEuSIsgCiYazucValO_2vsLY_ICGaQlhsEkp12pBzCJ15iGLNIXA-gnCwVRLkeAWlKW6S2Kb068iGv-f9r1PF2UNrFZRxUcAfzSt77FypJVkBnsxmxG1Fbcx9nXIHJv1DipYR3EijZPxN9GixazcTGA_X4c2WdagBvW_GuTp30VMQM2Dof0J_paXyPq-iiH-VGsp-QTX3P6wP_keT9BEX9nZwrEd76ewYxmmN4EORGFDnqidpgqGHXRSbompwRumUB2Magmcu1q3LiBWXwIybCW_lMFEXyDcpyGBuOL1sOsn9-N_UdCmC0ANM_O-LnLhEDBuWBWykWxalZpqlqRfaMrQwZzvuDx8NU27qxglx3QER9s48Dz4t94B9tIfHgVb1eR0CXsbdpkoZGN_Z_RceaOXE7q3K_3W1Tod4l8rK=w800-h500-no)
+
+Hoặc giả như nhìn vào cái bảng score ở dưới là có thể thấy đủ sự lộn xộn :3 Từ font dùng linh tinh, khung thoại xấu, cho đến icon đủ loại phong cách :))
+
+![Anh11](https://lh3.googleusercontent.com/IE1Y4H7gEiGmop8P3XTvUYcEmfDx_Ue5R4K9rWWjzH7vgignF4u-mDybsPWiPTGy_rOxReXWie9DxQBZV8C4ci7D_HXWXOWn6bLsU_bdb9tzXt4WA98pAEMR2Oz8hcUZXuOMwV-oMbnmEMet9oQnLiGeeC7ZK0zt2QSKultYAUQVLrQrXsChwnkyI2eiE0awYPqKIMgRuRgzh60QmvqBSfnt8vhP3JUMqOEIFcnbwru3idzg5B00VCrk0J3PtLSLnchPEO_wZEY8oQr7JsLvjU2GslxdVjpLxd8wSkxMYS8_AeaEclGiv5CC9S2S5wuA6rb_qHUx5vxp5sI_qfHlJiovGMEj5tQZtf1OcTzF0osZGTTlMoe_t12uLFidIFAiiJcu_Z1lYIeg1I2529WsmvZvb_-ylIRVfnjrIBz_KqphCvinXzKVkoU4cbPChATGo7l1DSiD6UgUUf7pgKB0a419Vv01DsijsI7_QKjSeobIO9pCNtMAW1tvZcZuUgJdzmltkbWA-Q7KR-xJobO1YJCrhp74kbdPrviYr6HD39mOnUhSlFe_iXwvVi5rqD_zbXEm=w800-h500-no)
+
+Mấy cái biểu tượng coin, diamond các kiểu theo mình là tự nên vẽ hoặc tìm hình khác phù hợp, trông nó sẽ đẹp hơn và đỡ tạo cảm giác đây là mấy cái hình linh tinh nhặt nhạnh từ khắp nơi cho vào :)) Để ý một chút ví dụ như biểu tượng đồng xu, đây là hình đồng xu kiểu vẽ vector :)) với mặt tròn nhẵn và có răng cưa nhỏ đều xung quanh. Nó giống như là dạng đồng xu của thời hiện đại. Trong khi game có bối cảnh fantasy trung cổ với gươm giáo pháp sư, đồng xu của thời đại này thường một là có mặt được khắc họa tiết tỉ mỉ, nếu không thì hai là có dạng nào đấy hơi méo chứ không tròn hẳn. Ví dụ:
+
+![Anh12](https://lh3.googleusercontent.com/wej9cyz5PKRHvMmAr_DDSiX12e9YgB89Ej-nDOh3J0rR8fBMcTY_QebPh7vSImQQVjCMRfX5eX5G38e91vfngE5jg_WEUp4l3XQmaBq1RAxpx47kFIu906kBBjFhLuDdNiw0gxzBUNRz2KzfJSGdsB0IQoFX2LVkh-0SKG6lce6El6cNlS_ySOM0FFhyW_746xot_UZYbRgfI7H5YWujtFtmEk_4t-lg-hiSDwWwxDVlf_I4aV-ls-5pjpONg_d_TClaCXX0BluzvimUSAn-UcZrBQFNHhI3_Pp0EynVpuHzOrBoe2tC5fg_d9MaJOJfidhbWk6KvntZWg4_SUlAQMNC6x7WQluJAZS-Eaw8YBXLZ58dJKxlo1kSSG8j8V45fWNK02Eq_L0aAVFH7tR-Xb-nHbB2JoOQXPmT_PvNaLW7nNIdIA7UBAv9LQ4rO-727aGfeKoWy6G24R43TUJSJds7bYcAXAjjBHrFX2pqSBbuLTXz83VX32uOyeUMKJv-YX4LF_-Y5pvOoFms3lja2QTSYTBSWiOPADDFBOiSePF53zWY-3ySFERTQg_OZpox5ZpH=w400-h200-no)
+
+Mà đến đây có vẻ như ý kiến bắt đầu linh tinh rồi =)) Thôi cứ biết thế đã =))
