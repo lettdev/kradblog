@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Open Graph -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | remove_first:'/' | absolute_url }}/" />
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | remove_first:'/' | absolute_url }}" />
   {% if page.featured_image %}
   <meta property="og:image" content="{{ page.featured_image }}" />
   {% endif %}
