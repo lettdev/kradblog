@@ -5,14 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Open Graph -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | remove_first:'/' | prepend: site.baseurl | prepend: site.url }}/" />
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | remove_first:'/' | absolute_url }}/" />
   {% if page.featured_image %}
   <meta property="og:image" content="{{ page.featured_image }}" />
   {% endif %}
   <meta property="og:description" content="{% if page.content %}{{ page.content | strip_html | escape | truncatewords: 50 }}{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:site_name" content="{{ site.title }}" />
-  {% if page.title %}<meta content="article" property="og:type" />{% else %}<meta content="website" property="og:type" />{% endif %}
-  
+  {% if page.title %}
+  <meta content="article" property="og:type" />
+  {% else %}<meta content="website" property="og:type" />
+  {% endif %}
   <meta property="fb:app_id" content="{{ site.fb_app_id }}" />
   <title>
     {% if page.title == "Home" %}
@@ -38,5 +40,5 @@
   <link rel="shortcut icon" href="{{ "/assets/favicon.ico" | relative_url }}">
 
   <!-- RSS -->
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: absolute_url }}">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | absolute_url }}">
 </head>
