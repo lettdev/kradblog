@@ -9,4 +9,4 @@ title: Copypasta
 	<p><textarea class="form-control" name="textarea" id="textOut" rows="5" readonly placeholder="Full-width Copypasta texts!" style="width: 100% !important;"></textarea></p>
 </form>
 
-<script src="{{ site.baseurl }}public/js/fullwidth-text.js" type="text/javascript" charset="utf-8"></script>
+<script src="{{ "assets/scripts/fullwidth-text.js" | relative_url }}" type="text/javascript" charset="utf-8"></script>

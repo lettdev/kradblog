@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tản văn Nền văn hóa Dota
-featured_image: https://lh3.googleusercontent.com/2RXPodgOv_bL4GN_9xxCOfrOANayqUro6Wa8XpEOhI0ZJdMnQfbKWVyOHVRWp6LE6EFnO20BxbQbtBathD25dwAyiVSlHFqZShR2Z7XhER0_w4S4dZtuaEM6WY9wKQX4uU4vEuEfBmrOIwwIgn66oCHgFmx3q6TiYPRId4qcvLcYns-qfId9eTx1agohnQeFNbl10cOeqEtZU5yKTmwl8znaTnt7AlYLsepnGTJ20xhPDFrUF_4KXBNQWVLCFfn5ufGTM1x5smYjCSf4tjbfx9A-aYAY737fpgcpfzO4O29saPlynakE-CFnohCH2dJa_t6hAYlFcBINXjlQhUn6A-6h2V4rBUxky25WpSvxsz4o9NaF7-4XM0u3hM9rUiH2Hb5GbFA_EC6P3uEjxPEosOojB9z5c7kSL-IU9GFAb6TzZ5WBH_gE64zSBblWG2cA2ZEpZPURf8ltkyKhZcvSJkTqCh3gBqCiiqa-6RW14469w09bF5-Tm7yLKCKH0aB7xYD3mdlW4Yj7qWe0X4jmBXTwZ7F8m_IqdD4O1Vd2FXHZe6Z-3vR0x5wHQBy9wmITEndIDECAdQT7vB6PzBgruUnJcpqL0KycTqq9cBsxPIi6i7IH=w1152-h648-no
+featured_image: https://lh3.googleusercontent.com/0C8o7HXYBs64is59_sSFSBf8ZrYa8E4MdWPnZ2N3lS_aaWZHPtu2oBmXMrsurQux2Ojb8CReGBDEqg=w1366-h768-rw-no
 ---
 
 *Nhại theo [Tản văn Nền văn hóa giao thông của tác giả Hoang Hai Nguyen](https://www.facebook.com/Hoang.Hai.Nguyen.1976/posts/1404820712865489)*
@@ -29,7 +29,7 @@ Mấy hôm sau tôi find match gặp một thằng Barathrum người Việt. Ga
 </div>
 
 <figure class="img-right">
-<img class="img-responsive" src="https://lh3.googleusercontent.com/e8gvRcqGFDQRqM_cOCyVTrL9RJJDKEBXW_ILW27TdF5Y0yPgI3SWWqlklbUaeFJAczBh6clJNwocw3qHEIkQj5Mavz20Hyz8ZISra5Il-TCSo6Tc8Vi3x7rdtJFKM28xGMfx9b3Ig9lbyqm3RuFWwaOeARk2Hckd_wP8m9Co5UFWycqQkSGaA5v3LJxiVxzikuhzSn_i4TeTMhVCgAe0nip612ci3u_8USzYtEr0JwRnhzzC7aD7RwZLsEU8sjNySTZHApMitKwYVDSL7mJ6VSPoQVC7x-Ht0kjKMi4FZ4Hm7x3-C5rydT2TvwjFqdzEhIN-Dkq5EMZNfd0iIvKvmfeSvUNpbrXFXku50Pms9nGwQ29GZjIzJ_12UMvNYC9fJIW1Dc-rae0WGm5tSdHMWfbj7fvaNSmvj4EgQzBGT9XLXNY4zh2I0hpfExOObU6xTndSNueiK1OLbM1QMrXL_dAK3djTZZdJDawVmori1RlJTAVxy31gx60tTPke3NbMSHzKk-QfSdMzirmGPYZCHx3897p2nHNDEJv3PCEpSvU5oFAXkEpjmh_VYmVjN8vXhmsPiATN9D4EiFHlt27b3MQbcjepShbzPcP0Yu3aKVHsghdb=w500-h404-no" alt="Blah blah!">
+<img class="img-responsive" src="https://lh3.googleusercontent.com/goRgiBCNrqqfjBWPhcsXlRlq2ueRrSkTDclftcG0R8yT33qIxQfTBnMyvY0G59rZZuYbye9JfnKnVA=w500-h404-rw-no" alt="Blah blah!">
 </figure>
 
 Chưa hết, chửi trong team chưa đủ, thằng Bara nó còn bật chat all lên chửi luôn cả bọn team địch:
@@ -80,7 +80,7 @@ Thằng Barathrum nó sụt sịt trong mic, chắc nó xúc động lắm, ho�
 </div>
 
 <figure class="img-left">
-<img class="img-responsive" src="https://lh3.googleusercontent.com/m15_kq0Fzf2WORn-zPP9mzmSGB-6zWcZmeNgkXO7Dwud5-wFTbPe3sc7v7cEScfr-CFGTyh2y4q5UydPJBFLgkNC5caIg5dSrMBwAdco5Q5bmsd_cNN05L7vaWFJ76jUJB_OEpIjyOMs6YCgGXFBJcE09xDDQVfpIUOqFg8a06E5pC2RbPnj_Op4txptXE-r8-i53njCi6d2djL8v0Yp8U-OP2S3q-Ytq8bpBy3w30ZmPMwZk0uoZ1LkhLxLwlPHRl8xq3aGBiPtaOpwe4Nh_S6Ubv7-JKKC9o2wrq_1N4wmjh7lrMKbKzluKXnbkHH_2eUWX3eZJ4LPXEqQM5d7t1fn0O_o0nqLugnmuqeOTtuu2KLGJcoxfEhhnzPEaNI_BGgGC0zm4elp4tFynvjH_HVu-BWQ_csd0cL0TwvPNIos-5HEL3IMaoEKn-O052umFquezVM5xlDEKXiTR0bpXiTulci1f9XqdqPMa5v7T3JdcyjfLXq0aU8-ZDSHqLHP4gqczNtq3BLFpGeCDrGO63pbsuVTCpJGkXurG9OLMOHcO8OEv0RWd6wY3YOIfZQ5tjmQxAuz-zrnK_qqZQiMToDs7au_FEoFwDPGs0hoAkOW78bM=w555-h312-no" alt="wut?">
+<img class="img-responsive" src="https://lh3.googleusercontent.com/9qOQmAR8B-8H31BxuI-tt6kd0BFTC-bv7nBkbyRYK2bgUo0EbPhh7jzRX_NRZvsGtxvSVsin815bbQ=w555-h312-rw-no" alt="wut?">
 </figure>
 
 Cô bé cầm Dazzle bỗng nhiên afk 30s vì ngạc nhiên, chắc cô bé không nghĩ nó lại lịch sự như vậy. Cô bé send cho chúng tôi một cái emo :) rồi bật cả mic lẫn chat lên:
