@@ -56,18 +56,18 @@ Một kết quả khác sử dụng nhiều ảnh hơn:
 
 Làm một bức ảnh Multiplicity không hề khó, nhưng để có bức ảnh đẹp các bạn cần nhiều sự sáng tạo khi chụp và tỉ mỉ trong chỉnh sửa. Với nghệ thuật Multiplicity, đôi lúc chỉ cần một mình bạn có thể tạo ra bức ảnh độc đáo với nhiều nhân vật trong ảnh giống như cả một ê-kíp thực hiện vậy. Cùng chiêm ngưỡng một số bức ảnh Multiplicity của các tác giả khác nhau trên thế giới:
 
-<figure class="img-center" markdown="1">![Suutam1](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http://lh4.ggpht.com/_tbDEkZ5F4MI/TATZTorJCxI/AAAAAAAACP4/n4dqCyoQhT4/Multi3.jpg&container=blogger&gadget=a&rewriteMime=image/*)
-<figcaption markdown="1">By [Sébastien Barré](https://www.flickr.com/photos/altuwa/4398216485/)</figcaption>
-</figure>
+![Suutam1](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http://lh4.ggpht.com/_tbDEkZ5F4MI/TATZTorJCxI/AAAAAAAACP4/n4dqCyoQhT4/Multi3.jpg&container=blogger&gadget=a&rewriteMime=image/*)
 
-<figure class="img-center" markdown="1">![Suutam2](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http://lh6.ggpht.com/_tbDEkZ5F4MI/TATZTjwjk3I/AAAAAAAACP0/4kX0RZmZdVM/Multi2.jpg&container=blogger&gadget=a&rewriteMime=image/*)
-<figcaption markdown="1">By [Bob Henry Photography](https://www.flickr.com/photos/bobasonic/151866540/)</figcaption>
-</figure>
+*By [Sébastien Barré](https://www.flickr.com/photos/altuwa/4398216485/)*
 
-<figure class="img-center" markdown="1">![Suutam3](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http://lh3.ggpht.com/_tbDEkZ5F4MI/TATZTbO9N2I/AAAAAAAACPw/Lss9tcS2vMA/Multi1.jpg&container=blogger&gadget=a&rewriteMime=image/*)
-<figcaption markdown="1">By [evaxebra](https://www.flickr.com/photos/evaxebra/1466650768/)</figcaption>
-</figure>
+![Suutam2](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http://lh6.ggpht.com/_tbDEkZ5F4MI/TATZTjwjk3I/AAAAAAAACP0/4kX0RZmZdVM/Multi2.jpg&container=blogger&gadget=a&rewriteMime=image/*)
 
-<figure class="img-center" markdown="1">![Suutam4](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http://lh4.ggpht.com/_tbDEkZ5F4MI/TATZT6jw-hI/AAAAAAAACP8/y3w4Ns2EQwM/Multi4.jpg&container=blogger&gadget=a&rewriteMime=image/*)
-<figcaption markdown="1">By [Niki](https://www.flickr.com/photos/niki-lynn/3282186891/)</figcaption>
-</figure>
+*By [Bob Henry Photography](https://www.flickr.com/photos/bobasonic/151866540/)*
+
+![Suutam3](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http://lh3.ggpht.com/_tbDEkZ5F4MI/TATZTbO9N2I/AAAAAAAACPw/Lss9tcS2vMA/Multi1.jpg&container=blogger&gadget=a&rewriteMime=image/*)
+
+*By [evaxebra](https://www.flickr.com/photos/evaxebra/1466650768/)*
+
+![Suutam4](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http://lh4.ggpht.com/_tbDEkZ5F4MI/TATZT6jw-hI/AAAAAAAACP8/y3w4Ns2EQwM/Multi4.jpg&container=blogger&gadget=a&rewriteMime=image/*)
+
+*By [Niki](https://www.flickr.com/photos/niki-lynn/3282186891/)*
