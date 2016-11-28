@@ -20,17 +20,26 @@
   </title>
 
   <!-- Outworld Decorator -->
-  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900,700,700italic|Noto+Serif:400,400italic,700,700italic&subset=latin,vietnamese' rel='stylesheet' type='text/css' lazyload>
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" lazyload>
-  <link rel="stylesheet" type="text/css" href="{{ "/assets/lib/pure/pure-min.css" | relative_url }}" lazyload>
+  <script>
+    !function(a){"use strict";var b=function(b,c,d){function j(a){return e.body?a():void setTimeout(function(){j(a)})}function l(){f.addEventListener&&f.removeEventListener("load",l),f.media=d||"all"}var g,e=a.document,f=e.createElement("link");if(c)g=c;else{var h=(e.body||e.getElementsByTagName("head")[0]).childNodes;g=h[h.length-1]}var i=e.styleSheets;f.rel="stylesheet",f.href=b,f.media="only x",j(function(){g.parentNode.insertBefore(f,c?g:g.nextSibling)});var k=function(a){for(var b=f.href,c=i.length;c--;)if(i[c].href===b)return a();setTimeout(function(){k(a)})};return f.addEventListener&&f.addEventListener("load",l),f.onloadcssdefined=k,k(l),f};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this);
+  </script>
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/lib/pure/pure-min.css" | relative_url }}">
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/styles/krad.css" | relative_url }}">
+  <noscript>
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900,700,700italic|Noto+Serif:400,400italic,700,700italic&subset=latin,vietnamese' rel='stylesheet' type='text/css'>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <!--[if lte IE 8]>
       <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-old-ie-min.css" | relative_url }}">
   <![endif]-->
   <!--[if gt IE 8]><!-->
-      <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-min.css" | relative_url }}" lazyload>
+      <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-min.css" | relative_url }}">
   <!--<![endif]-->
-  <link rel="stylesheet" type="text/css" href="{{ "/assets/styles/syntax.css" | relative_url }}" lazyload>
-  <link rel="stylesheet" type="text/css" href="{{ "/assets/styles/krad.css" | relative_url }}" lazyload>
+  </noscript>
+  <script>
+    loadCSS( "//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" );
+    loadCSS( "{{ "/assets/lib/pure/grids-responsive-min.css" | relative_url }}" );
+    loadCSS( "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900,700,700italic|Noto+Serif:400,400italic,700,700italic&subset=latin,vietnamese" );
+  </script>
   <link rel="shortcut icon" href="{{ "/assets/favicon.ico" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <!-- RSS -->

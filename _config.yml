@@ -23,6 +23,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+sass:
+  style: compressed
 
 # Custom vars
 version: 3.3.1
