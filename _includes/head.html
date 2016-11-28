@@ -4,14 +4,14 @@
   <!-- Responsiveee -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- New META! -->
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 60 | escape }}">
-  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}, {{ site.keywords }}{% else %}{{ site.keywords }}{% endif %}">
+  <meta name="description" content="{% if page.title == "Home" %}{{ site.description }}{% else %}{{ page.content | strip_html | normalize_whitespace | truncate: 60 | escape }}{% endif %}">
+  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords | concat: site.keywords | uniq | join: ", " }}{% else %}{{ site.keywords | join: ", " }}{% endif %}">
   <meta name="author" content="{{ site.author.name }}">
   <!-- Open Graph -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | remove_first:'/' | absolute_url }}" />
   {% if page.featured_image %}<meta property="og:image" content="{{ page.featured_image }}" />{% endif %}
-  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 60 | escape }}" />
+  <meta property="og:description" content="{% if page.title == "Home" %}{{ site.description }}{% else %}{{ page.content | strip_html | normalize_whitespace | truncate: 60 | escape }}{% endif %}" />
   <meta property="og:site_name" content="{{ site.title }}" />
   {% if page.title %}<meta content="article" property="og:type" />{% else %}<meta property="og:type" content="website" />{% endif %}
   <meta property="fb:app_id" content="{{ site.fb_app_id }}" />

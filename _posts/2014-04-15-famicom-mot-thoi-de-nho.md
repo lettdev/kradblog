@@ -2,6 +2,7 @@
 layout: post
 title: Famicom - Một thời để nhớ
 featured_image: https://lh3.googleusercontent.com/-D07lF8OYxsE/U8zFFl2xluI/AAAAAAAAEa8/9IJKM8yXypYk_s_vqCU0VhhI3CQBnSwwQCCo/s0/P1000743.jpg
+keywords: [famicom, nes, dien tu bon nut, cu ma hay]
 ---
 
 Lằng nhà lằng nhằng mãi mới đặt ngón để gõ. Cơ bản là lười. Nhiều lúc nghĩ nhai lại những cái cũ cũng vui, nhưng mà thời gian cho những cái mới còn chưa chắc dư thừa, hơn nữa bản tính tham lam, mỗi lần ôn lại cái cũ lại muốn càng nhiều chi tiết, càng rõ ràng càng tốt. Thế nên cơ bản nữa là nếu viết thì cũng dài.
