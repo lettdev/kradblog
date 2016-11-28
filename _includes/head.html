@@ -4,14 +4,14 @@
   <!-- Responsiveee -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- New META! -->
-  <meta name="description" content="{% if page.title == "Home" %}{{ site.description }}{% else %}{{ page.content | strip_html | normalize_whitespace | truncate: 60 | escape }}{% endif %}">
-  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords | concat: site.keywords | uniq | join: ", " }}{% else %}{{ site.keywords | join: ", " }}{% endif %}">
+  <meta name="description" content="{% if page.layout == "post" %}{{ page.content | strip_html | normalize_whitespace | truncate: 140 | escape }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords | uniq | join: ", " }}, {{ site.keywords | join: ", " }}{% else %}{{ site.keywords | join: ", " }}{% endif %}">
   <meta name="author" content="{{ site.author.name }}">
   <!-- Open Graph -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | remove_first:'/' | absolute_url }}" />
   {% if page.featured_image %}<meta property="og:image" content="{{ page.featured_image }}" />{% endif %}
-  <meta property="og:description" content="{% if page.title == "Home" %}{{ site.description }}{% else %}{{ page.content | strip_html | normalize_whitespace | truncate: 60 | escape }}{% endif %}" />
+  <meta property="og:description" content="{% if page.layout == "post" %}{{ page.content | strip_html | normalize_whitespace | truncate: 140 | escape }}{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:site_name" content="{{ site.title }}" />
   {% if page.title %}<meta content="article" property="og:type" />{% else %}<meta property="og:type" content="website" />{% endif %}
   <meta property="fb:app_id" content="{{ site.fb_app_id }}" />
@@ -20,17 +20,17 @@
   </title>
 
   <!-- Outworld Decorator -->
-  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900,700,700italic|Noto+Serif:400,400italic,700,700italic&subset=latin,vietnamese' rel='stylesheet' type='text/css'>
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="{{ "/assets/lib/pure/pure-min.css" | relative_url }}">
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900,700,700italic|Noto+Serif:400,400italic,700,700italic&subset=latin,vietnamese' rel='stylesheet' type='text/css' lazyload>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" lazyload>
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/lib/pure/pure-min.css" | relative_url }}" lazyload>
   <!--[if lte IE 8]>
       <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-old-ie-min.css" | relative_url }}">
   <![endif]-->
   <!--[if gt IE 8]><!-->
-      <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-min.css" | relative_url }}">
+      <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-min.css" | relative_url }}" lazyload>
   <!--<![endif]-->
-  <link rel="stylesheet" type="text/css" href="{{ "/assets/styles/syntax.css" | relative_url }}">
-  <link rel="stylesheet" type="text/css" href="{{ "/assets/styles/krad.css" | relative_url }}">
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/styles/syntax.css" | relative_url }}" lazyload>
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/styles/krad.css" | relative_url }}" lazyload>
   <link rel="shortcut icon" href="{{ "/assets/favicon.ico" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <!-- RSS -->
