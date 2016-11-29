@@ -18,28 +18,16 @@
   <title>
   {% if page.title == "Home" %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}
   </title>
-
   <!-- Outworld Decorator -->
-  <link rel="stylesheet" type="text/css" href="{{ "/assets/styles/krad.css" | relative_url }}">
-  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900,700,700italic|Noto+Serif:400,400italic,700,700italic&subset=latin,vietnamese' rel='stylesheet' type='text/css' media="none" onload="if(media!='all')media='all'">
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" media="none" onload="if(media!='all')media='all'">
-  <!--[if lte IE 8]>
-      <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-old-ie-min.css" | relative_url }}">
-  <![endif]-->
-  <!--[if gt IE 8]><!-->
-      <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-min.css" | relative_url }}" media="none" onload="if(media!='all')media='all'">
-  <!--<![endif]-->
+  <!--<link rel="stylesheet" type="text/css" href="{{ "/assets/styles/krad.css" | relative_url }}">-->
+  <style>
+  {% capture styles %}{% include krad.scss %}{% endcapture %}
+  {{ styles | scssify }}
+  </style>
+  {% include stylesheets.html async="true" %}
   <noscript>
-  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900,700,700italic|Noto+Serif:400,400italic,700,700italic&subset=latin,vietnamese' rel='stylesheet' type='text/css'>
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-  <!--[if lte IE 8]>
-      <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-old-ie-min.css" | relative_url }}">
-  <![endif]-->
-  <!--[if gt IE 8]><!-->
-      <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-min.css" | relative_url }}">
-  <!--<![endif]-->   
+    {% include stylesheets.html async="false" %}
   </noscript>
-
   <link rel="shortcut icon" href="{{ "/assets/favicon.ico" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <!-- RSS -->

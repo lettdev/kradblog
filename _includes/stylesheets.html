@@ -1,0 +1,21 @@
+{% if include.async=="true" %}
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/styles/components.css" | relative_url }}" media="none" onload="if(media!='all')media='all'">
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900,700,700italic|Noto+Serif:400,400italic,700,700italic&subset=latin,vietnamese' rel='stylesheet' type='text/css' media="none" onload="if(media!='all')media='all'">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" media="none" onload="if(media!='all')media='all'">
+  <!--[if lte IE 8]>
+    <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-old-ie-min.css" | relative_url }}">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-min.css" | relative_url }}" media="none" onload="if(media!='all')media='all'">
+  <!--<![endif]-->
+{% else %}
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/styles/components.css" | relative_url }}">
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900,700,700italic|Noto+Serif:400,400italic,700,700italic&subset=latin,vietnamese' rel='stylesheet' type='text/css'>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <!--[if lte IE 8]>
+    <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-old-ie-min.css" | relative_url }}">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="{{ "/assets/lib/pure/grids-responsive-min.css" | relative_url }}">
+  <!--<![endif]-->
+{% endif %}
