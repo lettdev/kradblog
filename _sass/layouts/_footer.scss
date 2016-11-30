@@ -23,12 +23,12 @@
         height: 43px;
         display: block;
         margin-bottom: 7px;
-        background: url(https://lh6.googleusercontent.com/-lraRqlCW3LI/URVRjb_7ZBI/AAAAAAAADXw/xM-72gvogQk/w48-h90-no/scroll-top.png) no-repeat 0 0 $color-gray-lighter;
+        background: url("/assets/images/scroll-top.png") no-repeat 0 0 $color-gray-lighter;
         opacity: 0.5;
         @include border-radius(5px);
         @include transition(all, 1s);
         &:hover {
-            background: url(https://lh6.googleusercontent.com/-lraRqlCW3LI/URVRjb_7ZBI/AAAAAAAADXw/xM-72gvogQk/w48-h90-no/scroll-top.png) no-repeat 0 0 $color-gray-lighter;
+            background: url("/assets/images/scroll-top.png") no-repeat 0 0 $color-gray-lighter;
             opacity: 0.75;
         }
     }

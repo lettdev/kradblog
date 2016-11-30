@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 keywords: [krad, blog, tunglt, tung le, thanh tung]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.tunglt.com" # the base hostname & protocol for your site, e.g. http://example.com
+non-ssl-url: "http://www.tunglt.com"
 
 permalink: /:year/:month/:title/
 
