@@ -32,6 +32,7 @@ version: 3.3.1
 github:
   repo: https://github.com/kradnozd/kradblog
 fb_app_id: 334951299891652
+google_trackid: "UA-88456593-1"
 
 # Fix bug 
 excerpt_separator: ""
