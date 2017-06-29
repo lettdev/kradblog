@@ -3,4 +3,4 @@ layout: page
 title: Incremental Games
 ---
 
-![incremental games](http://i.imgur.com/xxrWazB.png)
+<img class="img-responsive" src="http://i.imgur.com/xxrWazB.png" alt="incremental games" />
