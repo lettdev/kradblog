@@ -1,0 +1,13 @@
+---
+layout: default
+title: "404: Page not found"
+permalink: 404.html
+sitemap:
+  exclude: 'yes'
+---
+
+<div class="page wrapper">
+  <h1 class="page-title">404: Oops! There's nothing here.</h1>
+  <p class="lead">Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href="{{ "/" | relative_url}}">Head back home</a> to try finding it again.</p>
+  <div class="img-center"><img class="img-responsive" src="{{ "/public/images/meepo404.jpg" | relative_url }}" alt="404" /></div>
+</div>
