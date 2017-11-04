@@ -95,44 +95,44 @@ Chạy Hackintosh Vietnam Tool để cài kext, chọn:
 ### Wifi
 Không có hi vọng gì với con Mediatek Ralink 7630E cả nên mua cái USB TPLink WDN3200 (Ralink RT5572), cài driver sau là dùng ngon lành.
 
-<div class="highlight">
+<div class="highlight"><pre>
 <a href="http://www.mediafire.com/download/kpe6bv1b4t66hwt/BearExtender-5.4.dmg">BearExtender</a>
-</div>
+</pre></div>
 
 ### Brightness
 Dùng patch đổi tên GFX0 -> IGPU của RehabMan cho SSDT-8 và DSDT
 
-<div class="highlight">
+<div class="highlight"><pre>
 <a href="http://pastebin.com/DXqMEAZ9">http://pastebin.com/DXqMEAZ9</a>
-</div>
+</pre></div>
 
 Dùng patch Brightness Haswell của RehabMan cho SSDT-8
 
-<div class="highlight">
+<div class="highlight"><pre>
 <a href="http://pastebin.com/XFpJhQnW">http://pastebin.com/XFpJhQnW</a>
-</div>
+</pre></div>
 
 ### Battery (hiển thị mức pin)
 Dùng patch battery ASUS N55SL của RehabMan cho DSDT
 
-<div class="highlight"><a href="http://pastebin.com/2vS46zEL">http://pastebin.com/2vS46zEL</a></div>
+<div class="highlight"><pre><a href="http://pastebin.com/2vS46zEL">http://pastebin.com/2vS46zEL</a></pre></div>
 
 ### Audio
 Dùng patch Audio HDEF Layout 3 của RehabMan cho DSDT
 
-<div class="highlight"><a href="http://pastebin.com/8xHWuyBR">http://pastebin.com/8xHWuyBR</a></div>
+<div class="highlight"><pre><a href="http://pastebin.com/8xHWuyBR">http://pastebin.com/8xHWuyBR</a></pre></div>
 
 Dùng patch IRQ Fix của RehabMan cho DSDT
 
-<div class="highlight"><a href="http://pastebin.com/tCFV3uQr">http://pastebin.com/tCFV3uQr</a></div>
+<div class="highlight"><pre><a href="http://pastebin.com/tCFV3uQr">http://pastebin.com/tCFV3uQr</a></pre></div>
 
 Cài [kext ALC233 của Mirone](http://www.mediafire.com/download/s9dhoomon6tsp2s/AppleHDA-267.0-ALC233.zip). (Layout-id=3)
 
 ### Shutdown
 Shutdown bị lỗi máy không tắt hẳn. Dùng patch WAK2 của RehabMan cho DSDT.
 
-<div class="highlight"><a href="http://pastebin.com/H2nU6FRs">http://pastebin.com/H2nU6FRs</a></div>
+<div class="highlight"><pre><a href="http://pastebin.com/H2nU6FRs">http://pastebin.com/H2nU6FRs</a></pre></div>
 
 Dùng tiếp patch Shutdown Fix 2 của RehabMan cho DSDT.
 
-<div class="highlight"><a href="http://pastebin.com/5n86GUWt">http://pastebin.com/5n86GUWt</a></div>
+<div class="highlight"><pre><a href="http://pastebin.com/5n86GUWt">http://pastebin.com/5n86GUWt</a></pre></div>
