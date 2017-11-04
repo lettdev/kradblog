@@ -3,7 +3,7 @@ layout: post
 title: How to setup global menu for XFCE
 ---
 
-To setup a global menu for xfce eviroment, we use the Vala AppMenu plugin.
+To setup a global menu for xfce enviroment, we use the Vala AppMenu plugin.
 
 ## Add global menu
 
