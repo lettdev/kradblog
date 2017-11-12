@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About new appearance of some heroes in Dota 2
-featured_image: https://lh3.googleusercontent.com/-bd6ttA6DE-8/Vpi9JcrIAyI/AAAAAAAAAag/2am7pHWcH-YVWNW1ZizG7Mp0q9KYmPl6ACCo/s0/Dota-2-PC-Game-11.jpg
+featured_image: https://s20.postimg.org/cx0k7jlt9/Dota-2-_PC-_Game-11.jpg
 ---
 
 Rảnh rỗi lại ngồi làm tí nhận xét :))

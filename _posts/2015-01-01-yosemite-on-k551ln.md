@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cài đặt Mac OSX 10.10 Yosemite trên Asus K551LN
-featured_image: https://lh3.googleusercontent.com/-mborPe5Itkk/Vpi9JQjuxJI/AAAAAAAAAak/n0zwK1Sx0dEX0uA2xQlXQA8oB4xa9BJiwCCo/s0/OS-X-Yosemite-Logo-Wallpaper.jpg
+featured_image: https://s20.postimg.org/pv1m90or1/OS-_X-_Yosemite-_Logo-_Wallpaper.jpg
 ---
 
 

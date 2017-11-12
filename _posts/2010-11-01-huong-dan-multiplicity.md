@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hướng dẫn các bước làm một bức ảnh Multiplicity
-featured_image: https://lh3.googleusercontent.com/-nHQtn0v0AsA/Vpi9JeM79EI/AAAAAAAAAag/6xgaSF0w_Gw7QJeSbvXjvL0Eql-uJKbkQCCo/s0/multiplicity.jpg
+featured_image: https://s20.postimg.org/cul9yea3h/multiplicity.jpg
 ---
 
 Multiplicity là một nghệ thuật độc đáo trong nhiếp ảnh và chỉnh sửa ảnh, giúp tạo ra nhiều bản sao của đối tượng chủ thể trong bức ảnh. Bí quyết của Multiplicity là bằng việc sử dụng nhiều tấm hình chụp cùng một đối tượng ở các tư thế, vị trí, hành động,… khác nhau, thông qua chỉnh sửa với Photoshop để tạo nên bức hình duy nhất. Việc làm một bức ảnh Multiplicity về cơ bản không hề khó khăn chút nào, các bạn chỉ cần thực hiện theo các bước sau đây:

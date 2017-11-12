@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dùng thử Elementary OS
-featured_image: https://lh3.googleusercontent.com/-zpW1bjc89fE/Vpi9JZHrhgI/AAAAAAAAAak/aveVNwOFpQw-vtLMeD7rQ3wKETKYFlM3wCCo/s0/background.jpg
+featured_image: https://s20.postimg.org/90n8bkg99/background.jpg
 ---
 
 Elementary OS là một Linux distro mới trông có vẻ hứa hẹn. Thứ nhất là nó được xây dựng dựa trên Ubuntu, distro nổi tiếng nhất của Linux, thứ 2 là nó có thiết kế tương đối tươi mới và đẹp mắt, có xu hướng giống Mac. Hoặc ít nhất là cũng không phải Unity, fuck Unity!
@@ -10,47 +10,47 @@ Phiên bản mới nhất của elementary OS hiện tại là 0.3 Freya vừa �
 
 Xuất thân Ubuntu, nên eOS sẽ có rất nhiều điểm quen thuộc. Sau khi khởi động từ USB là màn hình lựa chọn cài đặt hoặc thử trực tiếp eOS từ USB:
 
-![Anh1](https://lh3.googleusercontent.com/a7Gs_-rVKI6AuyQntPMzA-1-eliUAOuHcAfh9I403wRFRHLRbN_oMF-sHn1zAb00bEQMDZ19JzG7Mh-s8ewuJ8DsBcDH5A6jwNeP-thYcT8zZZ1hMGWErtrptOuWqGs3OyqFKuMRaNtf-fGhTA5vpvgrnd4umEfdju2kRhUMRfNdN2kvjq2yNd0Qp2tWdsyDKL95jwtpfvVtb6mikK41DYXenxCSNBPlLCrEbYM9kAOYIxERni76shQhhi7Qhv7DAhZVVqubUGtuq8bE9KkrE8X3ST0rUkP709SS94HRX2w2rQaJ_7ueNghak4v-_O5UKwcHxWnkJCiWfcqoSk3FxkMBtwwDGERkhn1cXT9vh7HBSeZoQZMAsziPlMEwJgD4gFmc3cIT59bLex7guw9Euva84yIYgV8TwgBnXjVvmRd7RCzgmoYh6LiNJkGw3xljIJMwMxskiggONGlcSjN1cYWEo78efX6FOdp4ANN_sWVNHmCVZ4frCPbudBmgFO03ijWcI_9ZvRkRObcuFph5qC5pHx4XFMfBPGk84gJjlUp99kXsRch8Gc1xdN8LOI82O6Ww=w800-h600-no)
+![Anh1](https://s20.postimg.org/44o6xqv8t/e_OS-2015-05-19-12-46-36.png)
 
 Quá trình cài đặt đơn giản và nhanh chóng:
 
-![Anh2](https://lh3.googleusercontent.com/akoBiPBB5J_8QsLvRu02XwnyVxLTyoVUN5S6Jv1MJEIMN2NiWslD7esVA_cH_qSSe0hhCAJCoUYi8BXsy2kuYvHZwjvUbPx-vqmRuBB5ENUiVr8YTOwbVKYG9r78oqKtIEHYS7QQaoRVA7B3HtKZBNgpt3sWSVric4JFTMl5n7Sa0pox0CCGq2vRk-h_cMjuIZps5DlRn6m9eOohm_-WBlby6GC-8TWmYKxs2c0jdnhXnxZwa55yU55QVAIei9EakT85Tli9M-TzFdaROe1FSM8yn-JECLed7FKD8ItNurwMt-2YSkibQo3trt8S9VHMw4AHoyRsJhO7muTO45jbgOPXrdn0Buhk3AM2bzfKulX6D6vqHRjUZE4w76V3FrtNPzx92JKtHn77Pvz2VF3JGvLva4mJyb9O-AUoskLeX0wfIOeMoHnNa9OLO6LHRmervqJJ9Tw79Ozs61pe7VTAYWrcg4-5XWY8rxDxQEzuY-hR1PPkXjhyH1fL4egNajZx-RlTWkil9b8bl4iTgnlYHv6TQZPJ5_pFYKEELaLKGi966na2nyNhrN7QT3yn_5St6uhU=w800-h600-no)
+![Anh2](https://s20.postimg.org/b7w2dcsyl/e_OS-2015-05-19-12-47-20.png)
 
 Màn hình boot của eOS là logo trắng trên nền đen tuy đơn giản nhưng mình lại thấy đẹp và rất thích, không như màu tím đau hết cả mắt của Ubuntu:
 
-![Anh3](https://lh3.googleusercontent.com/jTxEkdQpLnRu3hzruncyyrCtVWCNH4HP7KQ4ET8kWevBLDiyOM4VML0Wft7us2KMljLVbeR8uODv7LoGhvwkbJkxlIp6CtJVAjVbQJA0uw983Yb-kCHJ4nWB7mUXwsjK3PKwo9gw3wYUoadMc2R2B1CFjpnWLMi45kNm4zTkcd2UE-7ssNf7Jw-mUaemQ7oiRs5TgniaZtXCUanBc91-XJN2AjRKJ9GlsvYLWcjtCkW01IvC7FyDHo2-74AePLWM_P0_rBZRgNDd43197T-Nrk8wi-ZpeKQ9e7NeYDYHwpB9oinQcqdTnlX0ojFcmJvKIQNYNdKBcuAvmqziKdqtXQYzpfJ2whzUb7xqRpTURwqrTc3pdfZYYBxbIWRrxRkB0zUvk71xXxzF8QJGRozG69xG0_rF6avd6hq0qrZP-_PCASlDKyl7Bp7_VuGc1zOtoOqDRM39KCwF8eKXBv4quaIxwVoBUxByC1HnnjlGvnuXEJPvAumzDDFnvAc1MhlaHMub9q46IZQUIRGtM2E8bj3yyq7X_h7tNjDitIBxNmh7d8Qivp3odXloyOYiQ2eg3LqI=w800-h600-no)
+![Anh3](https://s20.postimg.org/sxxqycoj1/e_OS-2015-05-19-13-17-06.png)
 
 Sẵn sàng login:
 
-![Anh4](https://lh3.googleusercontent.com/YDwh6OQbSgZOePcoyuQGYKChvNC24rZUQONgNLKPEfIOznOsua-5tzPqP194H-htkmwrcFP-vi1Tdr9XWAuE8Sq9Rt7Xurhc64WqR3q_jfXosp0VWov9AANWuCpaRAwHCuotyQyy9acVRQJ0gZ0wLcZczlLR_v38ZzZmP8rJUT4_kxLpYvy1vpnnJ37DC2r_9GwiH-Q5B-4ymw9PVQYvQ0f2BZlblHir3M3UN8uyt9Mi7xZKfd6pcPNPsx9LiEXb_iJlajBqBF4oF6BVNcmm9pJaiIyu1O4_LGNav_AhTCKYIIFzbWpacMtnXUeiTWwsADifJX70rImWlYU6UQIfZiA1hC4nZvWczlBIJRpwwtGxx7dWQWcJoJUsb-BJ6qLmi4Gyo3HVPwkGA-K_Pj2f9l2JKvfMwSVzZYuYIQuL_gQWsd4DTzA2ZmUJ36F8qSON0TigYEK5iDjWKODWB8W9L3yqPvlxt-8nzKUImNQEGJtmYkEbxK7d8HPWEC7B4_PsTS1g9I2S85SP9RDeCVmm2mr0lWZMHLHaoZVN1IlL5s0i2K_5zbflgFVttDdX6CiscXb_=w800-h600-no)
+![Anh4](https://s20.postimg.org/6yrcb92kt/e_OS-2015-05-19-13-23-57.png)
 
 Giao diện eOS thu hút bởi vẻ tươi sáng, nhẹ nhàng và có nét tương đồng với Mac OS. Tổ hợp phím <kbd>Super key</kbd> + <kbd>Space</kbd> sẽ đưa bạn tới ô search, tương tự với việc sử dụng spotlight của Mac OS.
 
-![Anh5](https://lh3.googleusercontent.com/GB2bZ1fyKy8e0SwSYxypoWQ7v7W05o9KRmYpqrDvwuoFfHfH9PTy4RzqfZJKHMxPdFzhEvc6bl4MpFcYnCjiouCkW-2EL4LvP1h2lZgu3HLsuzYHxzkrUlpZtIZ-gp-oalrAS0g0vHpWceeaOlHLZ5zILlov27kRX96jQeoNPJampGTr2s6Aj7VEFXfIJpI-XsJCq9JpBdjmNxaEzKCmmPwBpS_KotWO8KEi3KGPNwVu_z0iySL4Q2AbyI2v7cRUSLDOpn-UC0eHBLIe57ksCtEgSCgXbyiEzCUocGFHBIEQXfzIxNTjc5HS310a92APtDKkoG0DpZ9M5sy1eHd2T8nUEV_M-3aZIeNkH1FLTdGQItZx2xztmpAfldab6RmocsuSMEVs_QDjkk-9hRe4GQ5sitpM1KtqtnhCl_wje3BOiJ3LbpJl8wK_c26oYwrHfymcBu6o2073_l9awK5Gk3acblH9DcciDKTDyw2Yw1at7xg5erkMdO_lwUAGOLXHRGQpmIFrePIu1ZlbW4NavszPfqz_NUH101Z_0iS7qQJVdzALEHNKJ6U9ZGE__DR1nEoq=w800-h600-no)
+![Anh5](https://s20.postimg.org/ib3xt0gel/e_OS-2015-05-19-13-25-08.png)
 
 Dưới đây là trình soạn thảo text mặc định của eOS. Giao diện cửa sổ trong eOS đẹp và đơn giản tuy nhiên đã có điều cực kì khó chịu xuất hiện. Hai câu hỏi đặt ra đó là: "Thế éo nào hai nút điều khiển cửa sổ (Close và Maximize) lại đặt ở vị trí đối diện nhau?" và "Nút Minimize đã biến đi đâu?"
 
-![Anh6](https://lh3.googleusercontent.com/biVlgAH-3dLBAlI1aYbdfSlVKP_3zwu1Ol6XcYMRwkNTaBPbu1ME4cGMYKuRSYp_8ptu7qa2mQQd27_qQnw3-LKh3DDKtI0i3n9KZGihIHN_64MqifOkFaNUnSb89gvxbGEUgNZ092kaRFp2_MEuRNvsK4edaBAQG17UIR7hkH3zqtq9rUjqmWLZ_5AMvOb1vx16emzPytrcqVSw0TnjOVHvtiDeiAlc9RBKDuNbK80al95_gPpPTTNpkNIT0pLIEpTfHXHw9Sjd6wVS6lQ_vrh9C0h_cNNkWKx4QLt0EMWdNKAvoAvjplXVCuyg2AtCYZMGZ4icApHPh-DSBi2yUedfQS76LoZGRhmbfU00xtlfL5mq8-HwokXg6xl70ubvAwLOxD9I9nsQrDb0QpqKDITiUf-jUWmwhOckx3N4RVp_Pi_0TheJPbOqdIVauX24gvgXhPQwL_1LOBRUs3L7MUpknksBzo7_F9MV7BRvVbt58PZW1ANwMxlE_AcyvRnnZ61eF1becp2NrGzqeAbdtvpqe_fIVCZ8wRJ0ntEMAaKNtG3CNS3pN_ec9Sgg9D7Awwal=w800-h600-no)
+![Anh6](https://s20.postimg.org/pr37etjjh/e_OS-2015-05-19-13-29-16.png)
 
 eOS sử dụng Midori làm trình duyệt mặc định thay cho Firefox để tạo sự đồng bộ với hệ điều hành. Thêm một điểm nữa ở đây về giao diện của eOS đó là không có Main menu của các cửa sổ ở thanh topbar như Ubuntu. Hầu hết các phần mềm đều có một nút setting ở bên tay phải để truy cập menu, điều này cũng rất khó chịu và bất tiện.
 
-![Anh7](https://lh3.googleusercontent.com/knlbDWC3Xvb5ucpaOWsvSK39Cz1L0H9s0dNOW9Fcc1x2a9Pupsn09n9t8_jk5S3JK-xOW231uK749_IDW1FGQDxKbgDhZnEaJPo0OsLeKm34Cc7GEbsnElUjDMKDIcu9ZZEFOwdcfjyktDJ5NNZCrkhuBBa4ZSliS5A6-NGMQrbc3RhLaySCUXAHACrHCKKT-M7OFUOUd9W0kBiPnIVv8Z9JuGA_D1szSD_D28fWP6OFfAc9S0vHBlJQ757urHOe3FmCZJJ-apDeSDQE_103ds4Mwc4AEqWy87Pr_ZWElI7nBHt6FPQxTXrlvhN7Eyp5U2TRTAZ8Y2ZFiq3OeZVy18H4K07sI4QrPszEBPzHh0bIPakX-ryOypyjIK0GbbuXC4pKjhFExmpa5089fFEtxA0tbDWjjDEjQfDlKVE9JMNQQhwZzermDYpEIWPic4q7nsUECT8nkTVHdMFtjltW-dzxBaJpqBmcpMs0_q79FfYF22orawkHzuQy9pvvYQCKVof5oHVDJ7DTZQl17NrpsEi2UxGcKqRhSiAM-M_nUaGkj1xLO56G_PCvQ1VrQusZU88V=w800-h600-no)
+![Anh7](https://s20.postimg.org/k2wwnva19/e_OS-2015-05-19-13-30-13.png)
 
 Do được xây dựng dựa trên Ubuntu nên eOS được thừa hưởng Software Center của Ubuntu:
 
-![Anh8](https://lh3.googleusercontent.com/1pDTik6Y9WDDUo6LSc5i1RBxMZgcCObu9qgKXoOgYxOl7v-5Z2emnF2bcJeUYBCbHErJcgVUVGbHOj0l6j_paJxfeAkS2xP9Z5qOnWAB5kKDjQqH3X64GvWKzlEjiF7RdQ1Q2wmxc5H7fng4AHAX6mIdViH8vfTnzWuOhYXx_9JkekjDc-K_dA3HdYVRUm7a_v_02VJaJ3wEsmC4L4LwsrF4yp9sz2VVul0qBpnwOjKC2mdHtJRQ9VYLfrRi7FAe5LfPmzL5bec45AVXNn1BT2YCScPLX6B1BRXLSB5FowsSDulisCcLP6nlJVpllC-pcYcy_sZNlb99FV8iYArcGPkN2cOMM_xUIeLm_3vDX-Z9ZiwDVRo76HNXMkReze04SfgzOU5mIOgXfT1qu31T9Z_3Rcs-OuB1MUbuYAbEezAtngJ3VsYSkEyNbsfYYtBrOR7qWcGqR7DN8bzSHj_1UwkCVdHpuIIepmW54veZxd-uw17wC9xiIcG6FVOUdEeW4UpOkNXJkqleYKFApvtqx89zpL64yAtWza9XN0G6ks3XBc4_HP2M6TC8TNJ2PgWXXmHW=w800-h600-no)
+![Anh8](https://s20.postimg.org/eri036itp/e_OS-2015-05-19-13-31-31.png)
 
 System settings cũng quen thuộc:
 
-![Anh9](https://lh3.googleusercontent.com/Mlqjx6KYAc4JJH73--mwKQZ7GlxCyagZI2e-iKE4sqv5bH5gsfrjAwGhsfKZiu10IvIhGbh1vIYx_PcrZIoIiNtckvOhXgq9sjVVkOw6AKLgg4l8z1VNLOWDt3Fv5hjuWI2O69TOnrd-UDf5w_dA1xQp_VY8eIOyElMkw1kLoK4CMwRuiRzjv1yJDCbyYRdlVtxZqjBAuxdLPHE6IfzCKFOrkI8MXPEExFLo099B_wAXga39qV8bKO1X3YS8jL8-Vk88BIBopewqZkA_fV6MjocC5tbJse4qnQIxomuGezl1fpcDfmnc99KPU1blIfSRJ38B9yxQDWj2c_Votap7vyhk4gBo5JDkVaUSrRFyKjom7AjKGVnAp6r3l012M_wRm-i_5kcpXXmoLnwxfI93apQjQT7c-l2RblRwl-52pFjn3YKGjifA59oi80K2gdrxmsfzaOTJt2CSvuGc5sqpy45P0U4HpcMD32aZmz03D843znq548opxZ-VVDYRZWYGN-8g0p_ivZ_DUHeAOkDG0P6Oiwoen5ZGB-XLZBJ1gz95l3T9VML72dX8L0xdWN8QMS_i=w800-h600-no)
+![Anh9](https://s20.postimg.org/ca68vwr7h/e_OS-2015-05-19-13-32-42.png)
 
 Trình nghe nhạc mặc định trông giống iTunes phết:
 
-![Anh10](https://lh3.googleusercontent.com/9TvG-T9psVx6UebvIu5dytOJlnWPF4t0Hl1NRR1aOpTdST15ZKOXJlWnAwfE3mdhw1IalSCQ5XEi0QPpe4DhHpUnM1Wokk-DHLKhCRwUecO6qx1xX1ZyX-ZstmdvZjcTCMbNZZ-I_ZWhmowUFZwI212zOAsF9ZgeVT55z0jgxe1j_SXvtK1nInSYejtkOjRDfJcnm6FOqknGTtECbRezdyfZf6XfUrMecsgB6q6hW5_DxxPAFHRMRrlsoHJXksKTVTQ9eQDWkGpO4fE41lKZv70IxpBT_rEXX2DvcXTwi37OUrOE1zuo-glXnZ3Yiu6EO52o454bMstSsKIYn9kdERpg0nPEmldmEhigKvDTAszUy8uEvM-tXAsnJM5FkAt5_wy0y8eTPJO_ueUb9tKaEG2-okUq2IP800Y1TzodId_5dOXdDkt__J9e2IrSZuUtBVEuwuld07ExgjwKDAjer2IPcLkoZfYawdgWWiaMTI7qqQCHg-cKXGts6f9tzQEaCxIa9CwJ3oZJ7GQQDwaECUpeq35Tbf7K9RdVSwiPOUymSsnQIM9OYhPUJKGDIsqG3T58=w800-h600-no)
+![Anh10](https://s20.postimg.org/hll5gn859/e_OS-2015-05-19-13-37-31.png)
 
 Terminal của eOS có khá nhiều tính năng hay, ví dụ như một trong số đó là hiện cảnh báo khi copy & paste command có yêu cầu quyền superuser:
 
-![Anh11](https://lh3.googleusercontent.com/h8_h2fuJqPh_B3HzJp_VrRvHSsd4rE0sLMt33RVrS5YgH3slE1F2kb3eC41uVhwpW79KC8wLrNhwWcAFf3LVJIz68K_laBIMgTBiiwTa38gA_UQv5_pSDSPnkw4cGZ7g7bXeHrmkSN1EoI4GYs8hOrxjVtImAJf3FRZple9inUeUfqvwNS-KlhSfFaRe7XowHIdH_r5nx0fEYQUpwIsAilrULtTTPlD6VBJHIybF4GlPZVEAXtWj8GynQiGDW0fFF6B1R7N3VNgQ9OHufQEyIIFfskrXS7dy_c5Sql3z3MHjIHnKV23dXMO3VuvPbeBkMcUC5RCrQDVmSgB2x0n0QuPvqvKYzV_gMVIpy8-jXOPO6vfUGJy8NLbDVipiYhEAFCTLOQzmCE_YHuSlSuQod6araqsJ9KIKIeg4nKHIpY7_aj84iytZLiBxFCc3kuCqPhEzy6eafyF08jx5jlmS6acW-_GWI4spV83OSYxA_LFJdu88XVg0HMiNYemZ88qQqFnZwbZYCiAUx8m05QGFQV4P6aQZgti-65-4UUi5kPOSCF7IZmeCfX8xrruSoSIhrQ89=w800-h600-no)
+![Anh11](https://s20.postimg.org/ca68vxect/e_OS-2015-05-19-13-50-42.png)
 
 Ngoài ra thì mình vẫn không thể hiểu được cái Desktop của eOS để làm cảnh hay làm gì. Mình không tài nào kéo thả file hay copy vứt ra đấy được. Menu chuột phải cũng không có :(
 

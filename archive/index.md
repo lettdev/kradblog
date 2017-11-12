@@ -3,7 +3,7 @@ layout: page
 title: Archive
 ---
 
-<ul>
+<ul id="posts-list">
   {% for post in site.posts %}
 
     {% unless post.next %}

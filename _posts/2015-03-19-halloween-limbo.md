@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clone me like one of your French games!
-featured_image: https://lh3.googleusercontent.com/-yhkTEApViF0/Vpi9JfYMfMI/AAAAAAAAAak/Gka0rm5qqSoducruwaQiDioD0U-1zyNvgCCo/s0/ThisIsTotallyNotHothAndJakkuIsNotTatooine-TFAT2-4KPub.jpg
+featured_image: https://s20.postimg.org/fecbevavh/This_Is_Totally_Not_Hoth_And_Jakku_Is_Not_Tatooine-_TFAT2-4_KPub.jpg
 ---
 
 Dạo gần đây giang hồ có vụ đứa con tinh thần nhỏ nhắn xinh xắn của một nhóm làm game Việt Nam bị ăn cắp, dán quảng cáo lên mông và ném lên store để kiếm lợi. Mặc dù chả quan tâm mấy nhưng có một vài ý kiến sai lệch làm mình đọc thấy hơi ngứa ngáy.

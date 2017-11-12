@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Halloween Nightmare
-featured_image: https://lh3.googleusercontent.com/-Iz--c_IRI_Q/VFCrh2YM0FI/AAAAAAAAEgE/w4D2XEU78bw4mj2komM7eTBfi1fbZQJ3wCCo/s0/hn_cv.jpg
+featured_image: https://s20.postimg.org/sihvrhibx/hn_cv.jpg
 ---
 
 Lần đầu nhìn vào game này, chắc chắn nhiều bạn sẽ dễ dàng thốt lên rằng đây chắc chắn là một rip-off của LIMBO rồi. Cũng phong cách đồ họa silhouette na ná thế, cũng cùng bối cảnh horror/thriller, cũng lối chơi giải đố, cách điều khiển... lẫn vào đâu được! Vậy tại sao lại phải chơi một game như vậy, thậm chí đồ họa nó khỏi phải nói thì cũng thấy sida hơn LIMBO rồi? Ừ thì đúng thế, nó chưa thể nào đạt tới mức như LIMBO được, nhưng với một game đến từ một studio Việt non trẻ, và với mức giá Free thì theo tôi đây là một game đáng để thử và hơn hết là đáng để mong đợi.

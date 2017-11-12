@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tản văn Nền văn hóa Dota
-featured_image: https://lh3.googleusercontent.com/0C8o7HXYBs64is59_sSFSBf8ZrYa8E4MdWPnZ2N3lS_aaWZHPtu2oBmXMrsurQux2Ojb8CReGBDEqg=w1366-h768-rw-no
+featured_image: https://s20.postimg.org/xh5e62bv1/tanvancover.jpg
 ---
 
 *Nhại theo [Tản văn Nền văn hóa giao thông của tác giả Hoang Hai Nguyen](https://www.facebook.com/Hoang.Hai.Nguyen.1976/posts/1404820712865489)*
@@ -29,7 +29,7 @@ Mấy hôm sau tôi find match gặp một thằng Barathrum người Việt. Ga
 </div>
 
 <figure class="img-right">
-<img class="img-responsive" src="https://lh3.googleusercontent.com/goRgiBCNrqqfjBWPhcsXlRlq2ueRrSkTDclftcG0R8yT33qIxQfTBnMyvY0G59rZZuYbye9JfnKnVA=w500-h404-rw-no" alt="Blah blah!">
+<img class="img-responsive" src="https://s20.postimg.org/7csoaiual/tanvan1.png" alt="Blah blah!">
 </figure>
 
 Chưa hết, chửi trong team chưa đủ, thằng Bara nó còn bật chat all lên chửi luôn cả bọn team địch:
@@ -80,7 +80,7 @@ Thằng Barathrum nó sụt sịt trong mic, chắc nó xúc động lắm, ho�
 </div>
 
 <figure class="img-left">
-<img class="img-responsive" src="https://lh3.googleusercontent.com/9qOQmAR8B-8H31BxuI-tt6kd0BFTC-bv7nBkbyRYK2bgUo0EbPhh7jzRX_NRZvsGtxvSVsin815bbQ=w555-h312-rw-no" alt="wut?">
+<img class="img-responsive" src="https://s20.postimg.org/a6vtnzbwd/tanvan2.png" alt="wut?">
 </figure>
 
 Cô bé cầm Dazzle bỗng nhiên afk 30s vì ngạc nhiên, chắc cô bé không nghĩ nó lại lịch sự như vậy. Cô bé send cho chúng tôi một cái emo :) rồi bật cả mic lẫn chat lên:

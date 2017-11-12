@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dawn of the Planet of the Apes (2014)
-featured_image: https://lh3.googleusercontent.com/-yac_aYf5WOc/U8zlrebfxlI/AAAAAAAAEbk/YGdAXgwJoG8ppURp2rJts9R6pa97T-hFACCo/s0/Caesar-looks-grumpy.jpg
+featured_image: https://s20.postimg.org/jnh1gz199/Caesar-looks-grumpy.jpg
 ---
 
 **Cảnh báo Spoiler:**
