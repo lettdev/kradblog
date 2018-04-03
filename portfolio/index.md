@@ -1,20 +1,28 @@
 ---
 layout: page
 title: Portfolio
+hide_title: true
 ---
 
-<ul class="portfolio pure-g">
-{% for file in site.data.portfolio reversed %}
-  <li class="cube pure-u-1-2 pure-u-sm-1-3">
-  <div class="card-wrap">
-  	<div class="flip">
-  		<img src="{{ file.img-thumb }}" alt="{{ file.caption }}" />
-  	</div>
-  	<div class="flop">
-  		<h2>{{ file.caption }}</h2>
-    	{% if file.description %}<p>{{ file.description }}</p>{% endif %}
-  	</div>
-  </div>
-  </li>
-{% endfor %}
-</ul>
+<div class="pure-g">
+<div class="pure-u-2-5">
+Krad
+</div>
+<div class="pure-u-1-5">
+<img src="http://krad-blog-reborn-kradnozd.c9users.io/assets/images/avatar.png" />
+</div>
+<div class="pure-u-2-5">
+Designer. Author.
+</div>
+</div>
+
+# About
+Once I thought I could be a life-time pixel-pusher, but then I realize I'm more interested in the mixture of design and codes(maybe just tags, since I only knew HTML/CSS and JS). 😅
+I live in Shanghai, China and currently work at Baidu as a Senior GUI designer. When I'm not working or feeding my little daughter, I love taking stupid photos and watching Man Utd games.
+
+# Contact Me
+- tungkradle@gmail.com . Email
+- tunglt.com . Blog
+- @tunglt . Twitter
+
+Twitter / Facebook / Youtube / Linkedin

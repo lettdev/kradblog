@@ -4,6 +4,8 @@ title: Jared Leto - Suýt nữa thành một Joker hoàn hảo
 featured_image: https://s20.postimg.org/5h1alr5tp/letocover.png
 ---
 
+**_Update: Nevermind, his Joker sucks!_**
+
 Joker là một trong những nhân vật mình thích nhất. Từ lúc có thông tin Jared Leto được chọn để đóng Joker trong Suicide Squad mình đã cảm thấy rất háo hức. Không chỉ bởi có khả năng về diễn xuất, mà ngoại hình của Jared Leto cũng có nét rất thích hợp để vào vai tên hề điên loạn, hoàng tử tội phạm của Gotham.
 
 Ngay sau khi thông tin được công bố, đã có rất nhiều phác họa ban đầu từ các fan dự đoán về tạo hình của Joker phiên bản Jared Leto. Một số dựa vào Joker theo nguyên tác truyện tranh, một số không ít khác lại dựa theo Joker của các phiên bản phim đời trước như Heath Ledger, Jack Nicholson hay Caesar Romero. Và rồi cuối cùng tạo hình của Joker mới cũng được công bố, mang đến cho mình cảm giác vừa bất ngờ, vừa hụt hẫng, vừa tiếc nuối.
