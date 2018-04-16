@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Famicom - Một thời để nhớ
-featured_image: https://s20.postimg.org/sv99xp36l/P1000743.jpg
+featured_image: https://s20.postimg.cc/sv99xp36l/P1000743.jpg
 keywords: [famicom, nes, dien tu bon nut, cu ma hay]
 ---
 

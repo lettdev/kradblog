@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DotA - The Endless Story - Câu chuyện nhỏ của tôi :))
-featured_image: https://s20.postimg.org/tks2a2yl9/dotaendless.png
+featured_image: https://s20.postimg.cc/tks2a2yl9/dotaendless.png
 ---
 
 

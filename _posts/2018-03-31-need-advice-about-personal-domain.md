@@ -6,7 +6,7 @@ title: Choosing the right personal domain name
 So I'm planning to rebuild my personal brand, trying to be more professional ( ͡° ͜ʖ ͡°). There are a lot of things to do, such as building a better portfolio, editing social network pages, adjusting accounts on work related services, taking a good profile picture, feeding my cat, etc.
 
 <figure class="img-expand">
-<img class="img-responsive" src="https://s20.postimg.org/6g1c5smel/image.png" alt="My brand">
+<img class="img-responsive" src="https://s20.postimg.cc/6g1c5smel/image.png" alt="My brand">
 </figure>
 
 One of the most important things is choosing a suitable representative Username/Domain name. This also can be the most difficult part and cost you much time and effort, so I really need your advice.
@@ -35,7 +35,7 @@ Or vice versa, sometimes the readers of my website may go to social network prof
 IMO this isn't a very good name, maybe because I don't like the idea of putting a nickname in the middle of my name. However, it will solve the problem of unification between username and domain name.
 
 <figure class="img-center">
-<img class="img-responsive" src="https://s20.postimg.org/xr1clvejh/image.png" alt="Long domain">
+<img class="img-responsive" src="https://s20.postimg.cc/xr1clvejh/image.png" alt="Long domain">
 </figure>
 
 Although not too long, it certainly is not a short name. And sometimes I have trouble speaking it out to others. For Vietnamese people, they are confused whenever they heard the *krad* part, most of them mistaken it as *crad, crat, craft, crash, etc*.
@@ -54,7 +54,7 @@ Although not too long, it certainly is not a short name. And sometimes I have tr
 This is the most risky option and can be painful because I would probably have to rebuild from scratch: create new email, change social networks username, register new accounts on many websites, etc. But if I could come up with a *really good* username then that would be totally worth it.
 
 <figure class="img-center">
-<img class="img-responsive" src="https://s20.postimg.org/9a4hj9bq5/self_domain.png" alt="Found a good one!">
+<img class="img-responsive" src="https://s20.postimg.cc/9a4hj9bq5/self_domain.png" alt="Found a good one!">
 </figure>
 
 I would prefer a username with less than 8 characters, easy to remember, readable and good enough to represent myself. The problem is that I'm a kind of *John Smith*. My real name is very common in Vietnam, even my nickname is common and used by a lot of people. So all that I can come up with *(tungle, kradle, krad, etc.)* are already taken.
