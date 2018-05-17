@@ -6,9 +6,9 @@ featured_image: https://s20.postimg.cc/xh5e62bv1/tanvancover.jpg
 
 *Nhại theo [Tản văn Nền văn hóa giao thông của tác giả Hoang Hai Nguyen](https://www.facebook.com/Hoang.Hai.Nguyen.1976/posts/1404820712865489)*
 
-Tôi rất hay feed các bạn ạ, cứ lừa lừa lúc đồng đội stick gank hoặc push là tôi lại lẩn đi riêng rồi chết lẻ hoặc là ảo tưởng sức mạnh nhảy vào giữa team địch cân 5 thằng rồi chết. Tôi còn không bao giờ mua gà hay cắm mắt lúc chơi support thế nên thường hay ăn một đống report vào mồm, quy đổi ra bằng 3 trận low priority mà thực tế thì đánh không dưới 10 trận mới xong.
+Tôi rất hay feed các bạn ạ, cứ lừa lừa lúc đồng đội stick gank hoặc push là tôi lại lẩn đi riêng rồi chết lẻ hoặc là ảo tưởng sức mạnh nhảy vào giữa team địch cân 5 thằng rồi chết. Tôi còn không bao giờ mua gà hay cắm mắt lúc chơi support, thế nên thường hay ăn một đống report vào mồm, quy đổi ra bằng 3 trận low priority mà thực tế thì chẳng bao giờ đánh dưới 10 trận mà xong cả.
 
-Có 1 anh mặc quần đùi thủng đít hay ngồi chơi cùng tôi trong quán net report đến lần thứ 6 thì anh thấy nản quá. Anh gọi riêng tôi ra 1 góc rồi bảo rằng:
+Có 1 anh mặc quần đùi thủng đít hay ngồi chơi cùng tôi trong quán net, mỗi lần thua lại âm thầm report tôi. Report đến lần thứ 8 thì anh thấy nản quá. Anh gọi riêng tôi ra 1 góc rồi bảo rằng:
 
 <div class="dialogue" markdown="1">
 
@@ -16,14 +16,16 @@ Có 1 anh mặc quần đùi thủng đít hay ngồi chơi cùng tôi trong qu�
 
 </div>
 
-Ôi cha mẹ ôi! Tự nhiên tôi cảm thấy giác ngộ lời một anh game thủ vô danh các bạn ạ! Tôi ân hận ghê gớm! Lâu lắm rồi tôi chưa gặp anh game thủ nào tốt như anh này, tất nhiên là trừ cái anh tôi bóp d** ở server Russia cách đây cũng lâu lâu ra! Anh bạn chơi cùng không report tôi mà tôi lại cảm thấy còn thấm thía hơn cả lúc phải ngồi cày thoát low. Tự nhiên tôi nghiệm ra rằng, nếu tất cả chúng ta ai cũng chơi có ý thức thì cái server SEA này sẽ tốt đẹp hơn rất nhiều. Từ đó về sau tôi bỏ hẳn việc đi lẻ mặc cho bọn đồng đội cứ spam ping rồi chửi tôi ra mid đứng tranh làm cái cc gì thọt exp chúng nó, tôi luôn mua gà cắm mắt kể cả khi chơi carry, tôi cũng không nhảy vào team địch trước nữa mà cứ rón rén đứng sau cùng trong combat ngay lúc cầm tanker... Tôi tự thấy mình là một game thủ gương mẫu, thậm chí tôi cảm thấy phải có trách nhiệm với truyền bá văn hóa Dota với tất cả những người tôi chơi cùng...
+Ôi cha mẹ ôi! Tự nhiên tôi cảm thấy giác ngộ lời một anh game thủ vô danh các bạn ạ! Tôi ân hận ghê gớm! Lâu lắm rồi tôi chưa gặp anh game thủ nào tốt như anh này, tất nhiên là trừ cái anh tôi bóp d** ở server Russia cách đây cũng lâu lâu ra! Anh bạn chơi cùng không report tôi mà tôi lại cảm thấy còn thấm thía hơn cả những lúc phải ngồi cày thoát low. 
 
-Mấy hôm sau tôi find match gặp một thằng Barathrum người Việt. Game thì căng như dây đàn mà cái thằng này gặp đồng hương cùng ngôn ngữ nên nó tiện chửi liên mồm:
+Tự nhiên tôi nghiệm ra rằng, nếu tất cả chúng ta ai cũng chơi có ý thức thì cái server SEA này sẽ tốt đẹp hơn rất nhiều. Từ đó về sau tôi bỏ hẳn việc đi lẻ, mặc cho bọn đồng đội cứ ping liên hồi rồi chửi tôi ra mid đứng tranh làm cái cc gì thọt exp chúng nó. Tôi luôn mua gà cắm mắt kể cả khi chơi carry. Tôi cũng không nhảy vào team địch trước nữa mà cứ rón rén đứng sau cùng trong combat ngay lúc cầm tanker... Tôi tự thấy mình là một game thủ gương mẫu, thậm chí tôi cảm thấy phải có trách nhiệm với truyền bá văn hóa Dota với tất cả những người tôi chơi cùng...
+
+Mấy hôm sau tôi find match gặp một thằng Barathrum người Việt. Game thì căng như dây đàn mà cái thằng này lâu lâu gặp đồng hương cùng ngôn ngữ nên nó tiện chửi liên mồm:
 
 <div class="dialogue" markdown="1">
 
 - Đấy Đ** mẹ cái thằng Void kia farm ngu chưa anh!
-- Ôi cái Đ** mẹ cái thằng già này nó đéo hồi mana cho em anh này! Thế thì lấy đéo đâu ra mana mà charge đi gank!
+- Ôi cái Đ** mẹ cái thằng già này nó đéo chịu hồi mana cho em anh ạ! Thế thì lấy đéo đâu ra mana mà charge đi gank!
 - Úi giồi ôi, cái Đ** cụ thằng chó zeus lại KS kìa! Sao cái bọn ngu team kia không đ** chết mẹ nó đi hộ em cái anh nhỉ???
 
 </div>
@@ -36,10 +38,16 @@ Chưa hết, chửi trong team chưa đủ, thằng Bara nó còn bật chat all
 
 <div class="dialogue" markdown="1">
 
-- Đ** mẹ thằng AM kia mày có last hit bao h ko, deny cl à?
+- Đ** mẹ thằng AM kia mày đéo last hit đi, deny cl à? Đéo farm thì để người khác farm với!
 - Cái Đ** con mẹ Techies mày thừa bom để đặt à?
 - Đ** mẹ thằng ranh con Viper, tí bố có đồ bố táng chết con mẹ mày, harrass cc à?
+
+</div>
+
 Chửi chán, nó bật mic lên chat voice riêng với tôi:
+
+<div class="dialogue" markdown="1">
+
 - Đấy anh xem, cái cộng đồng Dota 2 này nó chả có tý đéo nào gọi là Ý THỨC game thủ! Em ngày nào cũng CHỬI mỏi cả tay anh ạ! Sụt ...soạt!! (Tiếng nó bú chai Sting qua mic)... Chúng nó không có cái gọi là cái gì ấy nhỉ??? Em xem trên thời sự nó vẫn nói mà tự nhiên em quên mẹ nó mất… nó gọi là ...à đúng rồi... Văn hóa gamer!
 
 </div>
@@ -49,11 +57,11 @@ Phát điên với cái thằng này, tôi hỏi nó:
 <div class="dialogue" markdown="1">
 
 - Mày đánh Dota bao lâu rồi em?
-- Hồi ở quê em không có net, lên đây thì chơi được tầm 5 năm rồi anh ạ! Nó trả lời.
-- Để anh tính cho mày nhé! Trung bình 1 phút mày Đ** 1 đứa trong game! Vậy từ hồi mày mới chơi đến giờ mày Đ** hết mấy cái server rồi đấy nhỉ? Vớ vẩn có khi mày Đ** cả thiên hà, đ** ra vũ trụ, mày đụ cả anh mấy lần rồi cũng nên???
+- Hồi ở quê em không có net, chỉ chơi bi-ca-chu! Lên đây thì chơi được tầm 3 năm rồi anh ạ! - Nó trả lời.
+- Để anh tính cho mày nhé! Trung bình 1 phút mày Đ** 1 đứa trong game! Vậy từ hồi mày mới chơi đến giờ chắc mày Đ** hết mấy cái server rồi đấy nhỉ? Vớ vẩn có khi mày Đ** cả thiên hà, đ** ra vũ trụ, mày đụ cả anh mấy lần rồi cũng nên???
 - Em xin lỗi anh! Anh thông cảm cho em chứ nhiều lúc đánh ức chế lắm anh ạ! 
 - Thế mày đánh nhau thật lần nào chưa?
-- Chưa anh ơi! Với lại mình chửi cũng tùy từng đối tượng chứ bọn trẻ trâu cù nhây với bọn rank cao hơn mình em chỉ CHỬI THẦM! Trước khi chửi em cũng nhìn trước ngó sau chứ chẳng may chửi nhầm thằng xăm trổ ngồi cùng quán vớ vẩn đang chửi ăn cái gạt tàn đầy vào đầu!
+- Chưa anh ơi! Chửi cho vui thôi, với lại mình chửi cũng tùy từng đối tượng chứ bọn trẻ trâu cù nhây với bọn rank cao hơn mình em chỉ CHỬI THẦM! Trước khi chửi em cũng nhìn trước ngó sau chứ chẳng may chửi nhầm thằng xăm trổ ngồi cùng quán vớ vẩn đang chửi ăn cái gạt tàn đầy vào đầu!
 - CÁI GÌ? Giờ thanh niên chúng mày có cả kiểu Đ** THẦM cơ à??? Bọn anh ngày xưa chỉ dám YÊU THẦM thôi!
 - Anh cứ trêu em!...
 - Mày chửi thế bao lâu nay mà có thấy bọn player nó có ý thức hơn không?
@@ -62,16 +70,16 @@ Phát điên với cái thằng này, tôi hỏi nó:
 
 </div>
 
-Thế là tôi đem chuyện anh quần đùi thủng đít cùng hàng net không report tôi mà khai sáng tôi cho nó nghe, thằng Barathrum XÚC ĐỘNG lắm. Nó bảo:
+Thế là tôi đem chuyện anh quần đùi thủng đít cùng hàng net không report tôi mà khai sáng tôi cho nó nghe, thằng Bara XÚC ĐỘNG lắm. Nó bảo:
 
 <div class="dialogue" markdown="1">
 
 - Hóa ra cũng có nhiều player tốt anh nhỉ! Em chưa gặp bao giờ!
-- Mày nghe anh, đừng chửi làm gì đau đầu mà đồng đội mày nghe cũng đau đầu theo! Lần sau cứ chat với người ta lịch sự đàng hoàng, làm như vậy người ta sẽ hiểu ra và tự thấy xấu hổ rồi từ đó chơi tốt và có ý thức hơn. Mày chửi một đứa cầm CM chơi ngu không biết support nhưng biết đâu đằng sau đó lại là một game thủ hiền lành đang làm quen với game? Mày chửi thế người ta thấy tổn thương, tự ái và sợ cộng đồng này rồi sẽ chuyển sang LoL, HoN hoặc bất cứ game nào khác. Mày hiểu chưa???
+- Mày nghe anh, đừng chửi làm gì đau đầu mà đồng đội mày nghe cũng đau đầu theo! Lần sau có gì cứ chat với người ta lịch sự đàng hoàng, làm như vậy người ta sẽ hiểu ra và tự thấy xấu hổ rồi từ đó chơi tốt và có ý thức hơn. Ví dụ mày chửi một đứa cầm support chơi ngu, nhưng biết đâu đằng sau đó lại là một game thủ hiền lành đang tập làm quen với game? Mày chửi thế người ta thấy tổn thương, tự ái và sợ cộng đồng này. Rồi người ta sẽ chuyển sang LoL, HoN hoặc bất cứ game nào khác. Mày hiểu chưa???
 
 </div>
 
-Thằng Barathrum nó sụt sịt trong mic, chắc nó xúc động lắm, hoặc là nó đang sổ mũi vì điều hòa ở quán lạnh quá tôi cũng đéo rõ nữa... Trận sau chúng tôi lại party cùng nhau và gặp một cô bé nữ game thủ người Việt đang tập chơi cầm Dazzle. Cô bé không mua đồ support mà cứ cộng stat rồi đứng last hit tranh hoặc lao lên feed. Thằng Barathrum bực lắm, nó định mở cả mic lẫn chat để chửi... Nhưng nó chợt dừng lại, nó hạ giọng và nói:
+Tiếng thằng Bara sụt sịt trong mic, chắc nó xúc động lắm, hoặc là nó đang sổ mũi vì điều hòa ở quán lạnh quá tôi cũng đéo rõ nữa... Trận sau chúng tôi lại party cùng nhau và gặp một player pick Dazzle, nghe giọng qua mic thì là một nữ game thủ người Việt. Cô bé không mua đồ support mà cứ cộng stat rồi đứng last hit tranh hoặc lao lên feed. Thằng Bara bực lắm, nó định chửi... Nhưng nó chợt dừng lại, hạ giọng và nói:
 
 <div class="dialogue" markdown="1">
 
@@ -91,11 +99,11 @@ Cô bé cầm Dazzle bỗng nhiên afk 30s vì ngạc nhiên, chắc cô bé kh�
 
 </div>
 
-Rồi cô bé tiếp tục công cuộc farm Desolator còn đang dang dở! Chưa hết, bọn teammate còn nhao lên tham gia:
+Rồi cô bé tiếp tục công cuộc farm nốt cái Deso còn đang dang dở! Chưa hết, bọn teammate còn nhao lên tham gia:
 
 <div class="dialogue" markdown="1">
 
-- Đ** mẹ thằng bara kia mày không gank mid làm cc gì trên top để tao thọt vcl! 
+- Đ** mẹ thằng bara kia mày không gank mid cứ làm cc gì trên top để tao thọt vcl! 
 - Đ** mẹ thằng kia ping clmm à???
 - Mày chửi ai noob đấy cái Đ** mẹ mày!!!
 - wew noob shit, putang ina mo!!
